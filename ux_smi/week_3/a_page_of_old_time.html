@@ -21,41 +21,6 @@
                 text-decoration: underline;
             }
 
-            p {
-                font-size: 16px;
-            }
-
-            a {
-                color: #ff0000;
-                text-decoration: none;
-            }
-
-            a:hover {
-                text-decoration: underline;
-            }
-
-            .main {
-                width: 80%;
-                margin: 0 auto;
-                border: 3px solid black;
-                padding: 20px;
-                background-color: #ffffff;
-            }
-
-            .button-90s {
-                background-color: #ffcc00;
-                border: 2px solid black;
-                padding: 10px;
-                cursor: pointer;
-                font-size: 16px;
-                font-weight: bold;
-                font-family: "Comic Sans MS", sans-serif;
-            }
-
-            .button-90s:hover {
-                background-color: #ff9900;
-            }
-
             marquee {
                 color: #008000;
                 font-weight: bold;
@@ -72,18 +37,36 @@
             }
 
             .toolbar a {
+                display: inline-block;
+                text-align: center;
+                width: 150px;
+                margin: 10px;
+                padding: 10px;
                 background-color: #ff9900;
-                color: black;
-                padding: 10px 20px;
                 border: 2px solid black;
-                margin: 5px;
-                font-weight: bold;
                 text-decoration: none;
+                font-weight: bold;
+                color: black;
                 font-family: "Comic Sans MS", sans-serif;
             }
 
             .toolbar a:hover {
                 background-color: #ffcc00;
+            }
+
+            .toolbar img {
+                width: 100px;
+                height: 100px;
+                display: block;
+                margin: 0 auto 10px;
+            }
+
+            .main {
+                width: 80%;
+                margin: 0 auto;
+                border: 3px solid black;
+                padding: 20px;
+                background-color: #ffffff;
             }
         </style>
     </head>
@@ -92,12 +75,20 @@
 
         <marquee>Breaking News: idk what to say!</marquee>
 
-        <!-- Navigation Toolbar -->
+        <!-- Navigation Toolbar with Images in Buttons -->
         <div class="toolbar">
-            <a href="page1.html">Page 1</a>
-            <a href="page2.html">Page 2</a>
-            <a href="page3.html">Page 3</a>
-            <a href="page4.html">Page 4</a>
+            <a href="page1.html">
+                <img src="page1_image.png" alt="Page 1 Image" />
+                Page 1
+            </a>
+            <a href="page2.html">
+                <img src="https://via.placeholder.com/100" alt="Page 2 Image" />
+                Page 2
+            </a>
+            <a href="page3.html">
+                <img src="https://via.placeholder.com/100" alt="Page 3 Image" />
+                Page 3
+            </a>
         </div>
 
         <div class="main">

@@ -1,0 +1,30 @@
+create table _
+alter table _
+drop table _
+
+insert into _
+
+
+insert into _ value
+    (dw,"aa","aa","ii.7");
+
+interst into _ (sno, sname) VALUES
+    (456, "wasd");
+
+inset into _
+    select distinct sno, bno, date_out
+    from _
+
+write insert command
+                    student
+                        studno int
+                        name vrchar(20)
+                        dob date
+                        phone cgar(8)
+________________________________________________________________________
+                    insert into student values
+                        (21100,"hamdan bash", "2003-11-4", "93612251");
+________________________________________________________________________
+                    insert into student (studno,name) VALUES
+                        (21100,"hamdan bash");
+________________________________________________________________________
