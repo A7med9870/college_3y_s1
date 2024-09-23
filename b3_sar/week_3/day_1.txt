@@ -68,5 +68,13 @@ to get the name of the book with number 3
         where Name = 'Book3';
 ________________________________________________________________________
 to get the detials of the borrowers working in Maths or French department
-    select * from Borrrowers
-        where Dept = 'Naths','French';
+select * from Borrowers
+    where   dept = 'maths' or;
+            dept = 'french';
+____________________________
+select * from Borrowers
+    where dept in ('maths','french');
+
+____________________________ reversed
+select * from Borrowers
+    where dept notin ('maths','french');
