@@ -45,7 +45,28 @@ to get the detais of the borrowers anne
     select * from borrowers
         where Name = 'anne';
 ________________________________________________________________________
-
 to get the detials of borrowers from Maths department
     select dept from borrowers
         where dept = 'Maths';
+________________________________________________________________________
+to get the details of borrowers from maths department with the name Bill
+    select dept from borrowers
+        where dept = 'Maths';
+        and Name = 'Bill';
+________________________________________________________________________
+to get the name of the book with number 3
+    select Name from Books
+        where Number = '3';
+                                                                        ____________________________________
+                                                                            select 'colum' from 'table name'
+                                                                                where 'row' = 'data';
+                                                                        ____________________________________
+
+________________________________________________________________________
+to get the name of the book with number 3
+    select Name from Books
+        where Name = 'Book3';
+________________________________________________________________________
+to get the detials of the borrowers working in Maths or French department
+    select * from Borrrowers
+        where Dept = 'Naths','French';
