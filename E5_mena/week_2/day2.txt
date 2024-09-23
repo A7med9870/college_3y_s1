@@ -1,0 +1,14 @@
+software development processes
+
+Linear
+-waterfall model
+    requirments
+        analysis
+            design
+                implementation
+                    testing
+                        maintenance
+
+Iterative
+-Spiral model
+-Agile process
