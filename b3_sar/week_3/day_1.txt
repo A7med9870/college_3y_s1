@@ -28,3 +28,24 @@ ________________________________________________________________________
                     insert into student (studno,name) VALUES
                         (21100,"hamdan bash");
 ________________________________________________________________________
+* --> all columns | no star --> no all colums
+select command
+select * from books;
+
+to get all borrowers
+    select name from borrowers;
+________________________________________________________________________
+to get only name from borrowers
+    select name from borrowers;
+________________________________________________________________________
+to get name nad number from borrowers
+    select name,number from borrowers;
+________________________________________________________________________
+to get the detais of the borrowers anne
+    select * from borrowers
+        where Name = 'anne';
+________________________________________________________________________
+
+to get the detials of borrowers from Maths department
+    select dept from borrowers
+        where dept = 'Maths';
