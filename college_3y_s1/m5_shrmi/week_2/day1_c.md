@@ -17,4 +17,4 @@ outliers
 a small number of values that are much larger or much smaller than all the others
 can disrupt the data mining process and give misleading results
 you should either remove them or, if they are important, collect more data to reflect this aspect of the world you are modelling
-colud be data entry errors
+could be data entry errors
