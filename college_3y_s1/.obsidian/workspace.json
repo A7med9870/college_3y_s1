@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "360ecb2ef9760afe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1c38d43f11a0b7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "936778e7f7f6b261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ux_smi/week_3/day_2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "790dd0d82b66dac0",
+    "type": "split",
+    "children": [
+      {
+        "id": "969912cc430d9520",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1633aff0f79ca6ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfc4ccf6810c85cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7adf91fb3ada8c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "570ca965e1ad22c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "669f5761c4ffa198",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "428b7515ec7d6f34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ux_smi/week_3/day_2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa3cea63357a249e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ux_smi/week_3/day_2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca40f053057e142d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3956aa55769f3f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ux_smi/week_3/day_2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "936778e7f7f6b261",
+  "lastOpenFiles": [
+    "ux_smi/Week_4",
+    "b3_sar/Week_4",
+    "E5_mena/Week_4",
+    "m5_shrmi/Week_4",
+    "ux_smi/Week 4",
+    "Welcome.md",
+    "ux_smi/week_3/day_2.md",
+    "ux_smi/week_3/Screenshot_20240925_102907.png",
+    "ux_smi/week_3/HCI-UX Assignment 1 - 2024.pdf",
+    "ux_smi/week_3/page1_image.png",
+    "ux_smi/week_3/day_1.md",
+    "ux_smi/week_1/P1-HTMLExerciseNo1.02.pdf",
+    "ux_smi/week_1/P1-HTMLExerciseNo1.0.pdf",
+    "m5_shrmi/week_3/day_2.md",
+    "m5_shrmi/week_3/day_1.md",
+    "m5_shrmi/week_2/day1_c.md",
+    "m5_shrmi/week_1/day2.md",
+    "m5_shrmi/week_1/day1.md",
+    "m5_shrmi/week_1/CSCU9M5Notes-1.pdf",
+    "E5_mena/week_3/day_2.md",
+    "E5_mena/week_3/day_1.md",
+    "E5_mena/week_2/day2.md",
+    "E5_mena/week_1/day1.md",
+    "b3_sar/week_2/day_2.md",
+    "b3_sar/week_2/day_1.md",
+    "b3_sar/week_1/day_1.md",
+    "untitled.ows",
+    "E5_mena/week_3",
+    "create a link.md"
+  ]
+}

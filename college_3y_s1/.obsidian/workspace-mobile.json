@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "1248dd8ff40f8097",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0000c433d4f4630",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3db85230ca7926bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E5_mena/week_3/day_1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b07b588f0ebf844",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "59b4700544702df7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1d5cdc4c0eb6e07b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "db792eaa65357b75",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "6a2e785ed38958f5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cc06612bc3b1ae9e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5cc6489b4cfef8c5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "E5_mena/week_3/day_1.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a027ef0a8c368dec",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "E5_mena/week_3/day_1.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c4009e5cdcf8b970",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "E5_mena/week_3/day_1.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "59b4700544702df7",
+  "lastOpenFiles": [
+    "b3_sar/Week_4",
+    "E5_mena/Week_4",
+    "m5_shrmi/Week_4",
+    "ux_smi/Week_4",
+    "ux_smi/week_1/P1-HTMLExerciseNo1.0.pdf",
+    "ux_smi/week_3/day_2.md"
+  ]
+}

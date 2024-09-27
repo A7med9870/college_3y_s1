@@ -1,21 +1,21 @@
-what is Mutimedeia useful for?
+what is Multimedia useful for?
 
-mutimedia definition
+multimedia definition
 
-mutimedia is seamless intergration of text  ound, images and control software
+multimedia is seamless integration of text  sound, images and control software
 
 communicating info
-modalitites
+modalities
 - vision, hear, touch
-channels of communcation
+channels of communication
 -whin a single modality
 -speech, sound effects, music
-meduium = coordinated channels
--may be mutimodal
+medium = coordinated channels
+-may be multi-modal
 -ex animation + sound track
 -picture + caption
 
-pros mutimedia
+pros multimedia
     grab and hold attention
     -humans have a limited attention span
     alt media for the same message
@@ -24,49 +24,49 @@ pros mutimedia
     interactivity
     -doing aids learning
 
-cons of mutimedia
+cons of multimedia
     poor design leads to total confusion
-    reliance on mutimodal input/output can act against people with disablilites
+    reliance on multi-modal input/output can act against people with disablilites
     lack of suitable computer
     -still certainly, possible!
 
 
-how mitimedia deleiver as a user experince
+how multimedia deliver as a user experience
 offline
-    -installtions / kiosks / interactive tables/
+    -installations / kiosks / interactive tables/
         single site with known hardware
     -software download / DVD / flash drive /
-        mutiple sites with no control over target hardware
+        multiple sites with no control over target hardware
     online
-    0coomuncation over netwroks
-    limited bandwith
+    communication over networks
+    limited bandwidth
     user may require suitable software
-    moblie app or browser plug-in
+    mobile app or browser plug-in
     feedback and interaction possible
 
 
 delivery methods
     internet
-        potenilally accessed by huge audience
+        potentially accessed by huge audience
         access can be very slow
         -steaming rech for audio and video
-        two way traffic poossible
+        two way traffic possible
         -email, forms for feedback
-        easliy updated
-        isp will charge produce by bandwith usage
+        easily updated
+        ISP will charge produce by bandwidth usage
         -unless produce has own (expensive) web server
         ongoing costs to user for internet access
-        additional commerical opportinites
+        additional commercial opportinites
         -ads, mailing lists
 
 delivery methods methods
     internet
         (fast) local area network with own web server
-        kown user technology  (consider bandwith and browser)
+        known user technology  (consider bandwidth and browser)
         secure
     kiosk
         fixed install with produce-spec hardware
-        hard disks provide high bandwidth and (unlimited) stoage
+        hard disks provide high bandwidth and (unlimited) storage
         must be reliable (perhaps 24 hours a day)
     electronic presentations
         maybe stored on laptop pc or touch-screen tablet
@@ -96,7 +96,7 @@ event based
 experince is event driven system
     user does something and something happens in response
     contemporary GUIs
-associating actiobs with event
+associating actions with event
 events initiated by user
 actions predefined or scripted
 authoring via programming languages
@@ -109,11 +109,11 @@ historically, tools such as Apple's hypercard and adobe flash were time-based to
 these have superseded by web based ux in html5 and frameworks built on html5
 
 the complelte experince
-actually most ux contains aspects of all three orgnisational style
+actually most ux contains aspects of all three organisational style
     elements laid out in space
     elements change under user control
     elements change over time
-deve proccess may consider different aspect in sequence eg web pages
+deve process may consider different aspect in sequence eg web pages
     layout content of web pages in space
     add inks to create interactivity
 
@@ -127,13 +127,13 @@ mutimedia with html
 <canvas>
 
 CSS
-posiitoning to generate page layout
-syle
+positioning to generate page layout
+style
 animation
 animation
 JS
 
 
 TEAMS
-ASSIGMENT IS THERE
-AS WELL TUTROIAL
+ASSIGNMENT IS THERE
+AS WELL TUTORIAL

@@ -2,7 +2,7 @@ software development processes
 
 Linear
 -waterfall model
-    requirments
+    requirements
         analysis
             design
                 implementation

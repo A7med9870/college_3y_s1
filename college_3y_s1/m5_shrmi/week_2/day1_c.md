@@ -11,7 +11,7 @@ getting started with orange
 check points
 
 histogram
-easiest way to visualise  a distro of a plot
+easiest way to visualize  a distro of a plot
 
 outliers
 a small number of values that are much larger or much smaller than all the others

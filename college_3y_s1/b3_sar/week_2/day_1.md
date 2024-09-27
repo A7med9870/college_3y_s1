@@ -50,19 +50,19 @@ ________
     which is easy to use and remember
     eg: empno
     Primary key must be unique (not repeated) and it can not be null (without a value)
-    there must be a vlue in the primary key field
+    there must be a value in the primary key field
 
 Foreign key
 ________
-    it is the primary key of naother table used for referencing(linking the data)
+    it is the primary key of another table used for referencing(linking the data)
         eg
-            deptno in employee table is foreign key referncing to dept table
+            deptno in employee table is foreign key referencing to dept table
 
 
-intergrity rules
-    entity intergrity rule
-        this referes to primay key
-        primary key must be unique nad itcan not be NULL
+integrity rules
+    entity integrity rule
+        this refers to primary key
+        primary key must be unique and it can not be NULL
 
     referntial intergrity rule
         this refers to foregin key

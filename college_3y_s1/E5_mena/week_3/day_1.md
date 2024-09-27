@@ -1,9 +1,9 @@
 java returns
-as the worset syntax program lang ever existed
+as the worst syntax program lang ever existed
 
-inhertinces
+inheritances
 abstract class
-intefaces
+interfaces
 is like a class
     but has no attributes
 
