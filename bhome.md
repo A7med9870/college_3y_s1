@@ -1,5 +1,11 @@
 This is the home page for the notes that has been taken by a fella student
 
+[[b3_sar/week_1/day_1]]
+[[E5_mena/week_1/day1|E5_me day1]]
+[[m5_shrmi/week_1/day1|m5_shrmi]]
+[[P1-HTMLExerciseNo1.0.pdf]]
+[[P1-HTMLExerciseNo1.02.pdf]]
+
 - **m5_shrmi**
     - ▶️ Week 1
         - [[m5_shrmi/week_1/day1|Day 1]]

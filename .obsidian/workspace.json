@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6a3438fc40ef3653",
+        "id": "6a97e2aa2f521a79",
         "type": "tabs",
         "children": [
           {
-            "id": "88580fd38a9bd5a7",
+            "id": "2cd6d51b53be63e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -165,11 +165,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88580fd38a9bd5a7",
+  "active": "2cd6d51b53be63e2",
   "lastOpenFiles": [
     "README.md",
-    "m5_shrmi/week_3/day2.md",
+    "ux_smi/Week_4/day1.md",
+    "ux_smi/Week_4/day2.md",
+    "m5_shrmi/Week_4/day2.md",
+    "m5_shrmi/Week_4/day1.md",
+    "E5_mena/Week_4/day2.md",
+    "b3_sar/Week_4/day2.md",
+    "E5_mena/Week_4/day1.md",
+    "b3_sar/Week_4/day1.md",
     "Home.md",
+    "m5_shrmi/week_1/CSCU9M5Notes-1.pdf",
+    "b3_sar/week_3/day1.md",
+    "m5_shrmi/week_3/day2.md",
     "b3_sar/week_1/day1.md",
     "b3_sar/week_3/day1.txt",
     "b3_sar/week_2/day2.md",
@@ -179,7 +189,6 @@
     "ux_smi/week_3/day1.md",
     "E5_mena/week_3/day2.md",
     "ux_smi/week_1/day1.md",
-    "m5_shrmi/week_1/CSCU9M5Notes-1.pdf",
     "E5_mena/week_1/day1.md",
     "E5_mena/week_3/day1.md",
     "m5_shrmi/week_3/day1.md",
@@ -190,21 +199,12 @@
     "ux_smi/week_1/P1-HTMLExerciseNo1.0.pdf",
     "ux_smi/week_3/page1_image.png",
     "Untitled.canvas",
-    "ux_smi/week_3/day_2.md",
     "ux_smi/week_3/HCI-UX Assignment 1 - 2024.pdf",
     "ux_smi/week_3/Screenshot_20240925_102907.png",
-    "m5_shrmi/week_3/day_1.md",
-    "hiwan kalb.md",
-    "Untitled 1.md",
-    "m5_shrmi/week_3/day_2.md",
-    "ux_smi/week_3/day_2.sync-conflict-20240927-142749-LNZJYDH.md",
     "ux_smi/Week_4",
     "b3_sar/Week_4",
     "E5_mena/Week_4",
     "m5_shrmi/Week_4",
-    "ux_smi/Week 4",
-    "Welcome.md",
-    "ux_smi/week_3/day_1.md",
-    "m5_shrmi/week_1/day2.md"
+    "ux_smi/Week 4"
   ]
 }

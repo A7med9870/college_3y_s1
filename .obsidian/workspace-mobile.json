@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "94120779eb72c7e2",
+        "id": "3bad8997deeceecc",
         "type": "tabs",
         "children": [
           {
-            "id": "00ccf9ce40596806",
+            "id": "24ccd6654a06f381",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,15 +149,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "00ccf9ce40596806",
+  "active": "24ccd6654a06f381",
   "lastOpenFiles": [
+    "ux_smi/week_1/P1-HTMLExerciseNo1.02.pdf",
+    "Home.md",
+    "b3_sar/week_2/day2.md",
+    "b3_sar/week_2/day1.md",
     "b3_sar/week_2/day_1.md",
     "ux_smi/week_3/day2.md",
     "ux_smi/week_1/P1-HTMLExerciseNo1.0.pdf",
     "m5_shrmi/week_3/CSCU9M5 Practical 1.pdf",
     "E5_mena/week_3/day2.md",
-    "Home.md",
-    "ux_smi/week_1/P1-HTMLExerciseNo1.02.pdf",
     "ux_smi/week_3/Screenshot_20240925_102907.png",
     "ux_smi/week_3/HCI-UX Assignment 1 - 2024.pdf",
     "ux_smi/week_3/page1_image.png",

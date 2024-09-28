@@ -57,10 +57,10 @@ ________________________________________________________________________
 to get the name of the book with number 3
     select Name from Books
         where Number = '3';
-                                                                        ____________________________________
-                                                                            select 'colum' from 'table name'
-                                                                                where 'row' = 'data';
-                                                                        ____________________________________
+                          ____________________________________
+                              select 'colum' from 'table name'
+                                  where 'row' = 'data';
+                          ____________________________________
 
 ________________________________________________________________________
 to get the name of the book with number 3
