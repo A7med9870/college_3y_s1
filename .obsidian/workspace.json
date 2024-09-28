@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eea0a07f93b7e28e",
+        "id": "6a3438fc40ef3653",
         "type": "tabs",
         "children": [
           {
-            "id": "04745c5a9650ae9f",
+            "id": "88580fd38a9bd5a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,11 +165,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04745c5a9650ae9f",
+  "active": "88580fd38a9bd5a7",
   "lastOpenFiles": [
-    "2024-09-27.md",
+    "README.md",
+    "m5_shrmi/week_3/day2.md",
     "Home.md",
-    "m5_shrmi/week_2/day1_c.md",
+    "b3_sar/week_1/day1.md",
+    "b3_sar/week_3/day1.txt",
+    "b3_sar/week_2/day2.md",
+    "b3_sar/week_2/day1.md",
+    "ux_smi/week_3/day2.md",
+    "ux_smi/week_1/P1-HTMLExerciseNo1.02.pdf",
+    "ux_smi/week_3/day1.md",
+    "E5_mena/week_3/day2.md",
+    "ux_smi/week_1/day1.md",
+    "m5_shrmi/week_1/CSCU9M5Notes-1.pdf",
+    "E5_mena/week_1/day1.md",
+    "E5_mena/week_3/day1.md",
+    "m5_shrmi/week_3/day1.md",
+    "b3_sar/week_1/day_1.md",
+    "B3_sar.md",
+    "2024-09-27.md",
+    "m5_shrmi/week_2/day1.md",
     "ux_smi/week_1/P1-HTMLExerciseNo1.0.pdf",
     "ux_smi/week_3/page1_image.png",
     "Untitled.canvas",
@@ -188,18 +205,6 @@
     "ux_smi/Week 4",
     "Welcome.md",
     "ux_smi/week_3/day_1.md",
-    "ux_smi/week_1/P1-HTMLExerciseNo1.02.pdf",
-    "m5_shrmi/week_1/day2.md",
-    "m5_shrmi/week_1/day1.md",
-    "m5_shrmi/week_1/CSCU9M5Notes-1.pdf",
-    "E5_mena/week_3/day_2.md",
-    "E5_mena/week_3/day_1.md",
-    "E5_mena/week_2/day2.md",
-    "E5_mena/week_1/day1.md",
-    "b3_sar/week_2/day_2.md",
-    "b3_sar/week_2/day_1.md",
-    "b3_sar/week_1/day_1.md",
-    "untitled.ows",
-    "create a link.md"
+    "m5_shrmi/week_1/day2.md"
   ]
 }

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c0000c433d4f4630",
+        "id": "94120779eb72c7e2",
         "type": "tabs",
         "children": [
           {
-            "id": "fb778b475e9dc1fa",
+            "id": "00ccf9ce40596806",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E5_mena/week_3/day_1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f95b5549dc54954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "m5_shrmi/week_3/day_2.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "m5_shrmi/week_3/day_2.md",
+            "file": "Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "m5_shrmi/week_3/day_2.md",
+            "file": "Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "m5_shrmi/week_3/day_2.md"
+            "file": "Home.md"
           }
         }
       },
@@ -162,22 +149,30 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8f95b5549dc54954",
+  "active": "00ccf9ce40596806",
   "lastOpenFiles": [
-    "Home.md",
-    "E5_mena/week_3/day_1.md",
+    "b3_sar/week_2/day_1.md",
+    "ux_smi/week_3/day2.md",
+    "ux_smi/week_1/P1-HTMLExerciseNo1.0.pdf",
     "m5_shrmi/week_3/CSCU9M5 Practical 1.pdf",
-    "b3_sar/week_1/day_1.md",
-    "E5_mena/week_3/day_2.md",
-    "ux_smi/week_3/day_2.sync-conflict-20240927-142749-LNZJYDH.md",
+    "E5_mena/week_3/day2.md",
+    "Home.md",
+    "ux_smi/week_1/P1-HTMLExerciseNo1.02.pdf",
+    "ux_smi/week_3/Screenshot_20240925_102907.png",
     "ux_smi/week_3/HCI-UX Assignment 1 - 2024.pdf",
-    "b3_sar/week_2/day_2.md",
+    "ux_smi/week_3/page1_image.png",
+    "E5_mena/week_3/day1.md",
+    "E5_mena/week_3/day_2.md",
+    "m5_shrmi/week_3/day_2.md",
     "ux_smi/week_3/day_1.md",
     "ux_smi/week_3/day_2.md",
+    "E5_mena/week_3/day_1.md",
+    "b3_sar/week_1/day_1.md",
+    "ux_smi/week_3/day_2.sync-conflict-20240927-142749-LNZJYDH.md",
+    "b3_sar/week_2/day_2.md",
     "b3_sar/Week_4",
     "E5_mena/Week_4",
     "m5_shrmi/Week_4",
-    "ux_smi/Week_4",
-    "ux_smi/week_1/P1-HTMLExerciseNo1.0.pdf"
+    "ux_smi/Week_4"
   ]
 }
