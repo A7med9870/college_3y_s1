@@ -22,7 +22,7 @@ This is the home page for the notes that has been taken by a fella student
     - ▶️ Week 3
         - [[E5_mena/week_3/day1|Day 1]]
         - [[E5_mena/week_3/day2|Day 2]]
-    - ▶️ Week 3
+    - ▶️ Week 4
         - [[E5_mena/week_4/day1|Day 1]]
         - [[E5_mena/week_4/day2|Day 2]]
 

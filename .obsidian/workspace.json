@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "eda8f2663af63231",
+        "id": "611fde83f5ab18a3",
         "type": "tabs",
         "children": [
           {
-            "id": "ed9f370b79c7ed10",
+            "id": "cee67cd06f3aad41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E5_mena/Week_4/day2.md",
-                "mode": "preview",
+                "file": "E5_mena/Week_4/day1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61fc412976169bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "570ca965e1ad22c7",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E5_mena/Week_4/day2.md",
+                "file": "E5_mena/Week_4/day1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E5_mena/Week_4/day2.md",
+                "file": "E5_mena/Week_4/day1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E5_mena/Week_4/day2.md"
+                "file": "E5_mena/Week_4/day1.md"
               }
             }
           },
@@ -166,14 +177,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed9f370b79c7ed10",
+  "active": "cee67cd06f3aad41",
   "lastOpenFiles": [
+    "E5_mena/Week_4/IMG_20240929_103109.jpg",
     "E5_mena/Week_4/day1.md",
+    "E5_mena/Week_4/IMG_20240929_101754.jpg",
+    "Home.md",
+    "bhome.md",
+    "E5_mena/Week_4/IMG_20240929_092215.jpg",
     "E5_mena/Week_4/day2.md",
+    "E5_mena/week_3/day1.md",
     "E5_mena/Week_4/IMG_20240929_090632.jpg",
     "E5_mena/Week_4/IMG_20240929_090523.jpg",
     "E5_mena/Week_4/IMG_20240929_090306.jpg",
-    "Home.md",
     "README.md",
     "ux_smi/Week_4/day1.md",
     "ux_smi/Week_4/day2.md",
@@ -194,11 +210,9 @@
     "E5_mena/week_3/day2.md",
     "ux_smi/week_1/day1.md",
     "E5_mena/week_1/day1.md",
-    "E5_mena/week_3/day1.md",
     "m5_shrmi/week_3/day1.md",
     "b3_sar/week_1/day_1.md",
     "B3_sar.md",
-    "2024-09-27.md",
     "ux_smi/week_1/P1-HTMLExerciseNo1.0.pdf",
     "ux_smi/week_3/page1_image.png",
     "Untitled.canvas",

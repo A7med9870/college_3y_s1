@@ -28,3 +28,9 @@ next class, will have info on assignment
 
 ![[IMG_20240929_090632.jpg]]
 ![[IMG_20240929_091511.jpg]]
+
+![[IMG_20240929_092215.jpg]]
+![[IMG_20240929_101754.jpg]]
+
+![[IMG_20240929_103109.jpg]]
+there is some info that have been published on canvas
