@@ -45,9 +45,14 @@ This is the home page for the notes that has been taken by a fella student
         - [[b3_sar/week_2/day2|Day 2]]
     - ▶️ Week 3
         - [[b3_sar/week_3/day1|Day 1]]
-        - [[b3_sar/week_3/day2|Day 2]]
     - ▶️ Week 4
         - [[b3_sar/week_4/day1|Day 1]]
         - [[b3_sar/week_4/day2|Day 2]]
 
 hope it helps you with your own studies
+
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1    | Row 1    | Row 1    |
+| Row 2    | Row 2    | Row 2    |
+| Row 3    | Row 3    | Row 3    |
