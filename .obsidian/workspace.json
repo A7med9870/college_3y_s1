@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d663e5605ac6f4a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "m5_shrmi/week_3/CSCU9M5 Practical 1.pdf"
-              }
-            }
-          },
-          {
             "id": "45ec3fd055702a8c",
             "type": "leaf",
             "state": {
@@ -30,12 +20,12 @@
             }
           },
           {
-            "id": "e966c81ea1de1c3f",
+            "id": "bf7591b87261a93b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E5_mena/Week_4/day1.md",
+                "file": "m5_shrmi/Week_4/day1.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,6 +33,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "299fbf31987f2f27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d663e5605ac6f4a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "m5_shrmi/week_3/CSCU9M5 Practical 1.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,24 +194,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45ec3fd055702a8c",
+  "active": "1633aff0f79ca6ac",
   "lastOpenFiles": [
-    "m5_shrmi/week_3/Screenshot_20240924_115328.png",
-    "m5_shrmi/week_3/Screenshot_20240924_121033.png",
-    "m5_shrmi/week_3/CSCU9M5 Practical 1.pdf",
+    "m5_shrmi/Week_4/IMG_20240929_131129.jpg",
+    "m5_shrmi/Week_4/IMG_20240929_131010.jpg",
+    "m5_shrmi/Week_4/IMG_20240929_130939.jpg",
+    "m5_shrmi/Week_4/IMG_20240929_130832.jpg",
+    "m5_shrmi/Week_4/IMG_20240929_130715.jpg",
+    "m5_shrmi/Week_4/IMG_20240929_125819.jpg",
     "m5_shrmi/Week_4/day1.md",
+    "m5_shrmi/Week_4/IMG_20240929_130528.jpg",
+    "m5_shrmi/Week_4/IMG_20240929_130043.jpg",
+    "m5_shrmi/Week_4/day1.sync-conflict-20240929-125954-LNZJYDH.md",
+    "m5_shrmi/week_3/CSCU9M5 Practical 1.pdf",
+    "m5_shrmi/Week_4/IMG_20240929_125321.jpg",
+    "m5_shrmi/Week_4/IMG_20240929_125051.jpg",
+    "m5_shrmi/Week_4/IMG_20240929_125058.jpg",
+    "README.md",
     "E5_mena/Week_4/day1.md",
-    "E5_mena/Week_4/IMG_20240929_101754.jpg",
     "Home.md",
-    "E5_mena/Week_4/IMG_20240929_103109.jpg",
     "bhome.md",
-    "E5_mena/Week_4/IMG_20240929_092215.jpg",
     "E5_mena/Week_4/day2.md",
     "E5_mena/week_3/day1.md",
-    "E5_mena/Week_4/IMG_20240929_090632.jpg",
-    "E5_mena/Week_4/IMG_20240929_090523.jpg",
-    "E5_mena/Week_4/IMG_20240929_090306.jpg",
-    "README.md",
     "ux_smi/Week_4/day1.md",
     "ux_smi/Week_4/day2.md",
     "m5_shrmi/Week_4/day2.md",
@@ -226,12 +236,9 @@
     "E5_mena/week_1/day1.md",
     "m5_shrmi/week_3/day1.md",
     "b3_sar/week_1/day_1.md",
-    "B3_sar.md",
     "ux_smi/week_1/P1-HTMLExerciseNo1.0.pdf",
-    "ux_smi/week_3/page1_image.png",
     "Untitled.canvas",
     "ux_smi/week_3/HCI-UX Assignment 1 - 2024.pdf",
-    "ux_smi/week_3/Screenshot_20240925_102907.png",
     "ux_smi/Week_4",
     "b3_sar/Week_4",
     "E5_mena/Week_4",
