@@ -34,3 +34,13 @@ next class will have to know what they mean and actually use it
 ![[IMG_20240929_131010.jpg]]
 
 ![[IMG_20240929_131129.jpg]]
+
+![[IMG_20240929_131601.jpg]]
+
+![[IMG_20240929_131755.jpg]]
+
+![[IMG_20240929_132130.jpg]]
+
+![[IMG_20240929_132332.jpg]]
+
+![[IMG_20240929_132337.jpg]]
