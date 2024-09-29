@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "408c50891f51b033",
+        "id": "4ddada20b8a9db15",
         "type": "tabs",
         "children": [
           {
-            "id": "fc49caf1512ceaee",
+            "id": "e7ab8d3971b5754d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E5_mena/Week_4/day1.md",
-                "mode": "source",
+                "file": "m5_shrmi/Week_4/day1.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "E5_mena/Week_4/day1.md",
+            "file": "m5_shrmi/Week_4/day1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "E5_mena/Week_4/day1.md",
+            "file": "m5_shrmi/Week_4/day1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "E5_mena/Week_4/day1.md"
+            "file": "m5_shrmi/Week_4/day1.md"
           }
         }
       },
@@ -149,19 +149,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fc49caf1512ceaee",
+  "active": "e7ab8d3971b5754d",
   "lastOpenFiles": [
+    "m5_shrmi/week_3/day1.md",
+    "m5_shrmi/Week_4/day1.md",
+    "Home.md",
+    "README.md",
+    "ux_smi/Week_4/day1.md",
+    "ux_smi/Week_4/day2.md",
+    "E5_mena/Week_4/day1.md",
     "E5_mena/Week_4/IMG_20240929_101754.jpg",
     "E5_mena/Week_4/IMG_20240929_103109.jpg",
     "IMG_20240929_101754.jpg",
     "IMG_20240929_103109.jpg",
-    "Home.md",
     "bhome.md",
     "E5_mena/Week_4/day2.md",
-    "E5_mena/Week_4/day1.md",
     "ux_smi/week_1/P1-HTMLExerciseNo1.0.pdf",
     "E5_mena/week_2/day2.md",
-    "m5_shrmi/week_3/day1.md",
     "m5_shrmi/week_3/day2.md",
     "E5_mena/Week_4/IMG_20240929_091511.jpg",
     "m5_shrmi/week_3/CSCU9M5 Practical 1.pdf",
@@ -170,7 +174,6 @@
     "IMG_20240929_091511.jpg",
     "E5_mena/Week_4/IMG_20240929_090306.jpg",
     "E5_mena/Week_4/IMG_20240929_090523.jpg",
-    "E5_mena/Week_4/IMG_20240929_090632.jpg",
     "ux_smi/week_1/P1-HTMLExerciseNo1.02.pdf",
     "b3_sar/week_2/day2.md",
     "b3_sar/week_2/day1.md",
