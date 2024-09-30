@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b41a58f55ccfcf9",
+        "id": "8f6646b2876742ad",
         "type": "tabs",
         "children": [
           {
-            "id": "1b3f86fcca7a3cf8",
+            "id": "fccd74944a2f701f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E5_mena/Week_4/day2.md",
+                "file": "ux_smi/Week_4/day1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "E5_mena/Week_4/day2.md",
+            "file": "ux_smi/Week_4/day1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "E5_mena/Week_4/day2.md",
+            "file": "ux_smi/Week_4/day1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "E5_mena/Week_4/day2.md"
+            "file": "ux_smi/Week_4/day1.md"
           }
         }
       },
@@ -149,41 +149,46 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1b3f86fcca7a3cf8",
+  "active": "fccd74944a2f701f",
   "lastOpenFiles": [
-    "E5_mena/Week_4/day1.md",
-    "E5_mena/Week_4/day2.md",
-    "E5_mena/Week_4/images_d1/IMG_20240929_090632.jpg",
-    "E5_mena/Week_4/images_d1/IMG_20240929_090306.jpg",
-    "E5_mena/Week_4/images_d1/IMG_20240929_103109.jpg",
-    "E5_mena/Week_4/images_d1/IMG_20240929_091511.jpg",
-    "E5_mena/Week_4/images_d1/IMG_20240929_090523.jpg",
-    "E5_mena/Week_4/images_d1/IMG_20240929_101754.jpg",
-    "E5_mena/Week_4/images_d1/IMG_20240929_092215.jpg",
-    "E5_mena/Week_4/images_d1",
-    "E5_mena/Week_4/IMG_20240929_090306.jpg",
+    "ux_smi/Week_4/WebMM/Media/image3.jpg",
+    "ux_smi/Week_4/WebMM/Media/image1.jpg",
+    "ux_smi/Week_4/WebMM/MMappBSfin.html",
+    "ux_smi/Week_4/WebMM/jquery.js",
+    "ux_smi/Week_4/WebMM/MMappBS.html",
+    "ux_smi/Week_4/WebMM/MMfinalraw.html",
+    "ux_smi/Week_4/WebMM/Media/pexels-kindel-media-7687598.mp4",
+    "ux_smi/Week_4/WebMM/Media/image2.jpg",
+    "ux_smi/Week_4/__MACOSX/WebMM/Media",
+    "ux_smi/Week_4/__MACOSX/WebMM",
+    "ux_smi/Week_4/__MACOSX",
+    "ux_smi/Week_4/WebMM/Media",
+    "ux_smi/Week_4/WebMM",
+    "ux_smi/Week_4/d1_files/__MACOSX/WebMM/WebMM 1/Media/image2.jpg",
+    "ux_smi/Week_4/d1_files/__MACOSX/WebMM/WebMM 1/Media/image3.jpg",
+    "ux_smi/Week_4/d1_files/__MACOSX/WebMM/WebMM 1/Media/image1.jpg",
+    "ux_smi/Week_4/d1_files/__MACOSX/WebMM 1/Media/image1.jpg",
+    "ux_smi/Week_4/d1_files/__MACOSX/WebMM 1/Media/image3.jpg",
+    "ux_smi/Week_4/d1_files/__MACOSX/WebMM 1/Media/image2.jpg",
+    "ux_smi/Week_4/d1_files/WebMM/Media/image1.jpg",
+    "ux_smi/Week_4/d1_files/WebMM/Media/image3.jpg",
     "Home.md",
     "m5_shrmi/Week_4/day1.md",
-    "m5_shrmi/Week_4/day_images/IMG_20240929_125058.jpg",
-    "m5_shrmi/Week_4/day_images/IMG_20240929_130528.jpg",
-    "m5_shrmi/Week_4/day_images",
+    "E5_mena/Week_4/day2.md",
+    "E5_mena/Week_4/day1.md",
     "m5_shrmi/Week_4/day2.md",
     "m5_shrmi/week_3/day1.md",
     "README.md",
     "ux_smi/Week_4/day1.md",
     "ux_smi/Week_4/day2.md",
     "bhome.md",
-    "ux_smi/week_1/P1-HTMLExerciseNo1.0.pdf",
     "E5_mena/week_2/day2.md",
     "m5_shrmi/week_3/day2.md",
-    "m5_shrmi/week_3/CSCU9M5 Practical 1.pdf",
-    "ux_smi/week_1/P1-HTMLExerciseNo1.02.pdf",
     "b3_sar/week_2/day2.md",
     "b3_sar/week_2/day1.md",
     "b3_sar/week_2/day_1.md",
     "ux_smi/week_3/day2.md",
     "E5_mena/week_3/day2.md",
-    "ux_smi/week_3/HCI-UX Assignment 1 - 2024.pdf",
     "E5_mena/week_3/day1.md",
     "E5_mena/week_3/day_2.md",
     "m5_shrmi/week_3/day_2.md",
@@ -191,10 +196,6 @@
     "ux_smi/week_3/day_2.md",
     "E5_mena/week_3/day_1.md",
     "b3_sar/week_1/day_1.md",
-    "ux_smi/week_3/day_2.sync-conflict-20240927-142749-LNZJYDH.md",
-    "b3_sar/Week_4",
-    "E5_mena/Week_4",
-    "m5_shrmi/Week_4",
-    "ux_smi/Week_4"
+    "ux_smi/week_3/day_2.sync-conflict-20240927-142749-LNZJYDH.md"
   ]
 }
