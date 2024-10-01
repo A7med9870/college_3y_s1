@@ -7,3 +7,14 @@ adding bias to linear regression models
 logistic regression
 evaluating a regression model
 opportunities for further study - w 3-2
+
+a premuim
+b predicted
+c actual predicition
+
+some steps are missing
+
+
+select colum a and colum b
+in design
+=a2-b2
