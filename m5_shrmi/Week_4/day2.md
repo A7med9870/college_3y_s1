@@ -16,10 +16,22 @@ c actual predicition
 
 some steps are missing
 
+ctrl shft down
+special copy
+values
 
 select colum a and colum b
 in design
-=a2-b2
+
+	=a2-b2
+
+------—
+
+	=abs(c2)
 
 
-=abs(c2)
+![[IMG_20241001_102623.jpg]]
+
+![[IMG_20241001_102628.jpg]]
+
+	=c2*c2
