@@ -1,0 +1,1 @@
+we saw videos and tutorials on week 3 before taking quiz 3
