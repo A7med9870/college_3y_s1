@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ef7b163644e9517",
+        "id": "aa04d583109c1d9f",
         "type": "tabs",
         "children": [
           {
-            "id": "462ccaf1e443ddcc",
+            "id": "13f7c4518781f129",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "b3_sar/Week_4/day1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c69eb37964a09612",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "b3_sar/week_3/day1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f109802dd5703f1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "m5_shrmi/Week_4/day1.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "b3_sar/Week_4/day1.md",
+                "file": "m5_shrmi/Week_4/day1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "b3_sar/Week_4/day1.md",
+                "file": "m5_shrmi/Week_4/day1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "b3_sar/Week_4/day1.md"
+                "file": "m5_shrmi/Week_4/day1.md"
               }
             }
           },
@@ -189,44 +165,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "462ccaf1e443ddcc",
+  "active": "13f7c4518781f129",
   "lastOpenFiles": [
-    "b3_sar/Week_4/Screenshot_20240930_131727.png",
-    "b3_sar/Week_4/Screenshot_20240930_125836.png",
-    "README.md",
-    "b3_sar/Week_4/day1.md",
-    "b3_sar/week_3/day1.md",
-    "b3_sar/week_2/day1.md",
+    "m5_shrmi/Week_4/CSCU9M5 Practical 2.pdf",
+    "m5_shrmi/week_3/day1.md",
     "Home.md",
-    "ux_smi/Week_4/d1_files/X5MMapp_pracwork-1.pdf",
+    "m5_shrmi/Week_4/day2.md",
     "ux_smi/Week_4/day1.md",
-    "ux_smi/Week_4/day1.sync-conflict-20240930-111542-LNZJYDH.md",
-    "ux_smi/Week_4/d1_files/HCI UI-UX - Tutorial 1-1.pdf",
-    "ux_smi/Week_4/d1_files/HCI UI-UX - Lect 2F.pdf",
     "ux_smi/Week_4/__MACOSX/WebMM/Media",
     "ux_smi/Week_4/__MACOSX/WebMM",
     "ux_smi/Week_4/__MACOSX",
     "ux_smi/Week_4/WebMM/Media/pexels-kindel-media-7687598.mp4",
+    "ux_smi/Week_4/WebMM/Media/image1.jpg",
     "ux_smi/Week_4/WebMM/Media/image3.jpg",
     "ux_smi/Week_4/WebMM/Media/image2.jpg",
-    "ux_smi/Week_4/WebMM/Media/image1.jpg",
     "ux_smi/Week_4/WebMM/jquery.js",
     "ux_smi/Week_4/WebMM/Media",
     "ux_smi/Week_4/WebMM/MMfinalraw.html",
-    "ux_smi/Week_4/d1_files/__MACOSX/WebMM/WebMM 1/Media/image3.jpg",
-    "ux_smi/Week_4/d1_files/__MACOSX/WebMM/WebMM 1/Media/image2.jpg",
-    "ux_smi/Week_4/d1_files/__MACOSX/WebMM/WebMM 1/Media/image1.jpg",
+    "ux_smi/Week_4/WebMM/MMappBSfin.html",
+    "ux_smi/Week_4/WebMM/MMappBS.html",
+    "ux_smi/Week_4/WebMM",
+    "m5_shrmi/Week_4/day1.md",
+    "ux_smi/Week_4/parallax-image.jpg",
+    "ux_smi/Week_4/113231.jpg",
+    "ux_smi/Week_4/aparallax-image.png",
+    "ux_smi/Week_4/parallax-image.png",
+    "ux_smi/Week_4/Screenshot_2024_09_21__23_26_06.png",
+    "ux_smi/Week_4/WebMM/parallax-1.jpeg",
+    "b3_sar/Week_4/day1.md",
+    "README.md",
+    "b3_sar/week_3/day1.md",
+    "b3_sar/Week_4/Screenshot_20240930_131727.png",
+    "b3_sar/week_2/day1.md",
+    "ux_smi/Week_4/day1.sync-conflict-20240930-111542-LNZJYDH.md",
     "E5_mena/Week_4/day2.md",
     "E5_mena/Week_4/day1.md",
-    "E5_mena/Week_4/images_d1/IMG_20240929_090306.jpg",
-    "m5_shrmi/Week_4/day1.md",
-    "m5_shrmi/Week_4/day_images/IMG_20240929_132337.jpg",
-    "m5_shrmi/Week_4/day_images/IMG_20240929_124208.jpg",
     "m5_shrmi/Week_4/day1.sync-conflict-20240929-125954-LNZJYDH.md",
     "bhome.md",
     "E5_mena/week_3/day1.md",
     "ux_smi/Week_4/day2.md",
-    "m5_shrmi/Week_4/day2.md",
     "b3_sar/Week_4/day2.md",
     "m5_shrmi/week_3/day2.md",
     "b3_sar/week_1/day1.md",
@@ -236,7 +213,6 @@
     "E5_mena/week_3/day2.md",
     "ux_smi/week_1/day1.md",
     "E5_mena/week_1/day1.md",
-    "m5_shrmi/week_3/day1.md",
     "Untitled.canvas"
   ]
 }

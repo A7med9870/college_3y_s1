@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8f6646b2876742ad",
+        "id": "2020381527fc22a5",
         "type": "tabs",
         "children": [
           {
-            "id": "fccd74944a2f701f",
+            "id": "25aee2036dd9eaa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ux_smi/Week_4/day1.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ux_smi/Week_4/day1.md",
+            "file": "Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ux_smi/Week_4/day1.md",
+            "file": "Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ux_smi/Week_4/day1.md"
+            "file": "Home.md"
           }
         }
       },
@@ -149,10 +149,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fccd74944a2f701f",
+  "active": "25aee2036dd9eaa0",
   "lastOpenFiles": [
-    "ux_smi/Week_4/day1.sync-conflict-20240930-111542-LNZJYDH.md",
+    "b3_sar/Week_4/day1.md",
+    "Home.md",
     "ux_smi/Week_4/day1.md",
+    "ux_smi/Week_4/day1.sync-conflict-20240930-111542-LNZJYDH.md",
     "ux_smi/Week_4/WebMM/Media/image3.jpg",
     "ux_smi/Week_4/WebMM/Media/image1.jpg",
     "ux_smi/Week_4/WebMM/MMappBSfin.html",
@@ -173,7 +175,6 @@
     "ux_smi/Week_4/d1_files/__MACOSX/WebMM 1/Media/image3.jpg",
     "ux_smi/Week_4/d1_files/__MACOSX/WebMM 1/Media/image2.jpg",
     "ux_smi/Week_4/d1_files/WebMM/Media/image1.jpg",
-    "Home.md",
     "m5_shrmi/Week_4/day1.md",
     "E5_mena/Week_4/day2.md",
     "E5_mena/Week_4/day1.md",
@@ -195,7 +196,6 @@
     "ux_smi/week_3/day_1.md",
     "ux_smi/week_3/day_2.md",
     "E5_mena/week_3/day_1.md",
-    "b3_sar/week_1/day_1.md",
-    "ux_smi/week_3/day_2.sync-conflict-20240927-142749-LNZJYDH.md"
+    "b3_sar/week_1/day_1.md"
   ]
 }

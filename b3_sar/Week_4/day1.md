@@ -34,6 +34,16 @@ select books.name from books,borrowers
 
 select books.name,borrowers.name from books,borrowers,loans
 	where books.number = loans.booknumber
-	and loans.personnumber = Borrowers.number
+	and loans.personnumber = Borrowers.number;
+
+	,
 explain
 ![[Screenshot_20240930_131727.png]]we place the comma “,” as a way to tell to fitter both
+the “.” to say which column
+
+to get the list of book’s name taken by Bill
+
+select books.name,borrowers.name from books,borrowers,loans
+	where books.number = loans.booknumber
+	and loans.personnumber = Borrowers.number
+	and borrowers.name = 'Bill';
