@@ -13,25 +13,39 @@ excel
 a premuim
 b predicted
 c actual predicition
+d difference
 
 some steps are missing
 
-ctrl shft down
+ctrl shift down
 special copy
 values
 
 select colum a and colum b
 in design
 
-	=a2-b2
+	=A2-B2
 
 ------—
 
 	=abs(c2)
-
+--
+	on d2 till and downwards
+	ctrl shift arrow down
+—
+	paste it on ExcelHistogram.xlsx
+—
+	special paste
+	values
 
 ![[IMG_20241001_102623.jpg]]
 
 ![[IMG_20241001_102628.jpg]]
+f2 MAE (means  ‘Mean Absolute Error’)
+	g2
+		=AVERAGE(D2:D4388)
+
+
 
 	=c2*c2
+
