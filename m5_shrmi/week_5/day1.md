@@ -1,5 +1,5 @@
 neural networks
-mutiple layers of neworks
+multiple layers of networks
 hidden layers
 
 units, nodes, nueorun
@@ -19,8 +19,8 @@ bias nodes
 
 some examples
 predicting levels of sales 
-predicting wether or not it will rain based on current humidity
-predicting the colour of pottery glaze based on a mixture of base pigments
+predicting weather or not it will rain based on current humidity
+predicting the color of pottery glaze based on a mixture of base pigments
 
 prepare
 split
@@ -33,18 +33,18 @@ repeat
 NO MATH CALC IS NEEDED FOR US
 
 hyperparameters
-the search for best validation error requries a serach over hypermeters
+the search for best validation error requires a search over hyperparameters
 learning rate and learning rate decay
 batch sze
 initial random weights range
 momentum
-acttion func
-variuos reg
+action func
+various reg
 
 advantages of neural nets
 very powerful predictors
 can cope with non linear relationships
-able to generalise to data that it has not seen before
+able to generalize to data that it has not seen before
 
 dis
 how predi ar can be hard to be understand by human
