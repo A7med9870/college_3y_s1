@@ -31,3 +31,24 @@ present the next example
 repeat
 
 NO MATH CALC IS NEEDED FOR US
+
+hyperparameters
+the search for best validation error requries a serach over hypermeters
+learning rate and learning rate decay
+batch sze
+initial random weights range
+momentum
+acttion func
+variuos reg
+
+advantages of neural nets
+very powerful predictors
+can cope with non linear relationships
+able to generalise to data that it has not seen before
+
+dis
+how predi ar can be hard to be understand by human
+not easy to ask why an answer was given
+no rules to look at
+can make big errors if not trained properly
+req a cretian deg of faith
