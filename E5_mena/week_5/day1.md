@@ -80,3 +80,10 @@ not to be very similiar to other studnets
 ![[IMG_20241006_092252.jpg]]
 
 ![[IMG_20241006_092420.jpg]]
+
+check teams
+solutions
+class material
+tutorial with solutions
+software eng book
+
