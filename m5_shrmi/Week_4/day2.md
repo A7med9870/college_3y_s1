@@ -49,3 +49,11 @@ f2 MAE (means  ‘Mean Absolute Error’)
 
 	=c2*c2
 
+part 2  Metrics for Categorical Predictions (Classification)
+# todo
+
+
+
+test and score
+
+redo parc 1 and prac 2 as a way to remember how to do it

@@ -25,6 +25,9 @@ This is the home page for the notes that has been taken by a fella student
     - ▶️ Week 4
         - [[E5_mena/week_4/day1|Day 1]]
         - [[E5_mena/week_4/day2|Day 2]]
+    - ▶️ Week 5
+        - [[E5_mena/week_5/day1|Day 1]]
+        - [[E5_mena/week_5/day2|Day 2]]
 
 - **ux_smi**
     - ▶️ Week 1
@@ -36,6 +39,9 @@ This is the home page for the notes that has been taken by a fella student
     - ▶️ Week 4
         - [[ux_smi/week_4/day1|Day 1]]
         - [[ux_smi/week_4/day2|Day 2]]
+    - ▶️ Week 5
+        - [[ux_smi/week_5/day1|Day 1]]
+        - [[ux_smi/week_5/day2|Day 2]]
 
 - **b3_sar**
     - ▶️ Week 1

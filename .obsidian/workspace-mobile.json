@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2020381527fc22a5",
+        "id": "3aa0c67d3d2e93d9",
         "type": "tabs",
         "children": [
           {
-            "id": "25aee2036dd9eaa0",
+            "id": "3be81ba7ea687bbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "E5_mena/week_5/day1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Home.md",
+            "file": "E5_mena/week_5/day1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Home.md",
+            "file": "E5_mena/week_5/day1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Home.md"
+            "file": "E5_mena/week_5/day1.md"
           }
         }
       },
@@ -149,10 +149,31 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "25aee2036dd9eaa0",
+  "active": "3be81ba7ea687bbd",
   "lastOpenFiles": [
-    "b3_sar/Week_4/day1.md",
+    "E5_mena/week_5/day1.sync-conflict-20241006-083335-LNZJYDH.md",
+    "E5_mena/week_5/pics/IMG_20241006_082928.jpg",
+    "E5_mena/week_5/pics",
+    "E5_mena/week_5/IMG_20241006_082928.jpg",
+    "IMG_20241006_082928.jpg",
     "Home.md",
+    "m5_shrmi/week_1/CSCU9M5Notes-1.pdf",
+    "m5_shrmi/week_1/day1.md",
+    "m5_shrmi/Week_4/day1.md",
+    "README.md",
+    "ux_smi/Week_4/parallax-image.jpg",
+    "m5_shrmi/week_3/Screenshot_20240924_121033.png",
+    "m5_shrmi/week_3/day2.md",
+    "m5_shrmi/week_2/day1.md",
+    "b3_sar/week_2/day2.md",
+    "b3_sar/week_2/day1.md",
+    "b3_sar/week_1/day1.md",
+    "b3_sar/Week_4/Practical 1 -  MySQL and phpMyAdmin.pdf",
+    "b3_sar/Week_4/Practical 2 - Writing SQL.pdf",
+    "m5_shrmi/Week_4/day2.md",
+    "IMG_20241001_102628.jpg",
+    "IMG_20241001_102623.jpg",
+    "b3_sar/Week_4/day1.md",
     "ux_smi/Week_4/day1.md",
     "ux_smi/Week_4/day1.sync-conflict-20240930-111542-LNZJYDH.md",
     "ux_smi/Week_4/WebMM/Media/image3.jpg",
@@ -164,38 +185,17 @@
     "ux_smi/Week_4/WebMM/Media/pexels-kindel-media-7687598.mp4",
     "ux_smi/Week_4/WebMM/Media/image2.jpg",
     "ux_smi/Week_4/__MACOSX/WebMM/Media",
-    "ux_smi/Week_4/__MACOSX/WebMM",
-    "ux_smi/Week_4/__MACOSX",
-    "ux_smi/Week_4/WebMM/Media",
-    "ux_smi/Week_4/WebMM",
-    "ux_smi/Week_4/d1_files/__MACOSX/WebMM/WebMM 1/Media/image2.jpg",
-    "ux_smi/Week_4/d1_files/__MACOSX/WebMM/WebMM 1/Media/image3.jpg",
-    "ux_smi/Week_4/d1_files/__MACOSX/WebMM/WebMM 1/Media/image1.jpg",
-    "ux_smi/Week_4/d1_files/__MACOSX/WebMM 1/Media/image1.jpg",
-    "ux_smi/Week_4/d1_files/__MACOSX/WebMM 1/Media/image3.jpg",
-    "ux_smi/Week_4/d1_files/__MACOSX/WebMM 1/Media/image2.jpg",
-    "ux_smi/Week_4/d1_files/WebMM/Media/image1.jpg",
-    "m5_shrmi/Week_4/day1.md",
     "E5_mena/Week_4/day2.md",
     "E5_mena/Week_4/day1.md",
-    "m5_shrmi/Week_4/day2.md",
     "m5_shrmi/week_3/day1.md",
-    "README.md",
     "ux_smi/Week_4/day2.md",
     "bhome.md",
     "E5_mena/week_2/day2.md",
-    "m5_shrmi/week_3/day2.md",
-    "b3_sar/week_2/day2.md",
-    "b3_sar/week_2/day1.md",
     "b3_sar/week_2/day_1.md",
     "ux_smi/week_3/day2.md",
     "E5_mena/week_3/day2.md",
     "E5_mena/week_3/day1.md",
     "E5_mena/week_3/day_2.md",
-    "m5_shrmi/week_3/day_2.md",
-    "ux_smi/week_3/day_1.md",
-    "ux_smi/week_3/day_2.md",
-    "E5_mena/week_3/day_1.md",
-    "b3_sar/week_1/day_1.md"
+    "m5_shrmi/week_3/day_2.md"
   ]
 }
