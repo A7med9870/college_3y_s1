@@ -46,3 +46,37 @@ Another pdf
 
 ![[IMG_20241006_085317.jpg]]
 
+![[IMG_20241006_085608.jpg]]
+![[IMG_20241006_085807.jpg]]
+
+
+![[IMG_20241006_090134.jpg]]
+
+![[IMG_20241006_090328.jpg]]
+
+![[IMG_20241006_090757.jpg]]
+
+![[IMG_20241006_090920.jpg]]
+
+read a book
+something a book, idk what book
+what is that book?
+not to be very similiar to other studnets
+
+![[IMG_20241006_091222.jpg]]
+
+![[IMG_20241006_091327.jpg]]
+
+![[IMG_20241006_091616.jpg]]
+
+![[IMG_20241006_091717.jpg]]
+
+![[IMG_20241006_091854.jpg]]
+
+![[IMG_20241006_092042.jpg]]
+
+![[IMG_20241006_092141.jpg]]
+
+![[IMG_20241006_092252.jpg]]
+
+![[IMG_20241006_092420.jpg]]
