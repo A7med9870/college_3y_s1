@@ -13,6 +13,9 @@ This is the home page for the notes that has been taken by a fella student
     - ▶️ Week 4
         - [[m5_shrmi/week_4/day1|Day 1]]
         - [[m5_shrmi/week_4/day2|Day 2]]
+    - ▶️ Week 5
+        - [[m5_shrmi/week_5/day1|Day 1]]
+        - [[m5_shrmi/week_5/day2|Day 2]]
 
 - **E5_mena**
     - ▶️ Week 1
