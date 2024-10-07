@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6b1641c1f994f34c",
+        "id": "8ce6996f3a681fba",
         "type": "tabs",
         "children": [
           {
-            "id": "0af40802810159ab",
+            "id": "745282d1982c71c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "m5_shrmi/week_5/day1.md",
-                "mode": "preview",
+                "file": "Home.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "m5_shrmi/week_5/day1.md",
+            "file": "Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "m5_shrmi/week_5/day1.md",
+            "file": "Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "m5_shrmi/week_5/day1.md"
+            "file": "Home.md"
           }
         }
       },
@@ -149,9 +149,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0af40802810159ab",
+  "active": "745282d1982c71c9",
   "lastOpenFiles": [
+    "E5_mena/week_5/day2.md",
     "Home.md",
+    "m5_shrmi/week_5/day1.md",
     "ux_smi/Week_4/day2.md",
     "ux_smi/Week_4/parallax-image.jpg",
     "ux_smi/Week_4/day1.md",
@@ -194,7 +196,6 @@
     "bhome.md",
     "E5_mena/week_2/day2.md",
     "b3_sar/week_2/day_1.md",
-    "ux_smi/week_3/day2.md",
-    "E5_mena/week_3/day2.md"
+    "ux_smi/week_3/day2.md"
   ]
 }

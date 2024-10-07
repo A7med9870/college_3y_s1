@@ -57,6 +57,9 @@ This is the home page for the notes that has been taken by a fella student
     - ▶️ Week 4
         - [[b3_sar/week_4/day1|Day 1]]
         - [[b3_sar/week_4/day2|Day 2]]
+    - ▶️ Week 5
+        - [[b3_sar/week_5/day1|Day 1]]
+        - [[b3_sar/week_5/day2|Day 2]]
 
 hope it helps you with your own studies
 
