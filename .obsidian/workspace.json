@@ -4,28 +4,98 @@
     "type": "split",
     "children": [
       {
-        "id": "8e5998562ebad08c",
+        "id": "09c75d0738d3bca3",
+        "type": "split",
+        "children": [
+          {
+            "id": "90b33345658ebe7e",
+            "type": "tabs",
+            "dimension": 57.13028169014085,
+            "children": [
+              {
+                "id": "6d90272c6e753c8d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "b3_sar/week_5/day2.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "1954d28b1f5d6476",
+            "type": "tabs",
+            "dimension": 42.86971830985916,
+            "children": [
+              {
+                "id": "bbe7534bcbdc5202",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "b3_sar/Week_4/day1.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "df628a9999e16318",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "b3_sar/week_3/day1.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c75a384f98d3d9c6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "b3_sar/week_2/day1.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9a155ed53debdb80",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "b3_sar/week_2/day2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "02374b1ca557485f",
         "type": "tabs",
         "children": [
           {
-            "id": "2fab55633c04a3ea",
+            "id": "5d9e2060691325e3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "m5_shrmi/week_5/CSCU9M5 Practical 3.pdf"
-              }
-            }
-          },
-          {
-            "id": "d6421c7c135a5c8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "m5_shrmi/week_5/day2.md",
-                "mode": "source",
-                "source": false
+                "file": "b3_sar/Week_4/Practical 2 - Writing SQL.pdf"
               }
             }
           }
@@ -96,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "m5_shrmi/week_5/CSCU9M5 Practical 3.pdf",
+                "file": "b3_sar/week_5/day2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "m5_shrmi/week_5/CSCU9M5 Practical 3.pdf",
+                "file": "b3_sar/week_5/day2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "m5_shrmi/week_5/CSCU9M5 Practical 3.pdf"
+                "file": "b3_sar/week_5/day2.md"
               }
             }
           },
@@ -176,26 +246,30 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2fab55633c04a3ea",
+  "active": "6d90272c6e753c8d",
   "lastOpenFiles": [
+    "b3_sar/Week_4/Practical 2 - Writing SQL.pdf",
+    "b3_sar/week_5/day2.md",
+    "b3_sar/week_2/day2.md",
+    "b3_sar/week_2/day1.md",
+    "b3_sar/week_3/day1.md",
+    "b3_sar/Week_4/day1.md",
+    "b3_sar/Week_4/day2.md",
+    "Home.md",
+    "b3_sar/Week_4/Practical 1 -  MySQL and phpMyAdmin.pdf",
+    "b3_sar/week_5/day1.md",
+    "m5_shrmi/week_5/day2.md",
+    "m5_shrmi/week_5/CSCU9M5 Practical 3.pdf",
+    "m5_shrmi/week_5/prca3_p2.ows",
     "m5_shrmi/week_5/prca3_omr.ows",
     "m5_shrmi/week_5/prca3.ows",
     "m5_shrmi/week_5/prac3.ows",
-    "m5_shrmi/week_5/day2.md",
     "m5_shrmi/week_5/Practical3_Newspaper_SoldOut.csv",
     "m5_shrmi/week_5/Practical3_Newspaper.csv",
-    "m5_shrmi/week_5/CSCU9M5 Practical 3.pdf",
     "m5_shrmi/week_5/CSCU9M5 Practical 4.pdf",
-    "Home.md",
-    "b3_sar/week_5/day1.md",
-    "b3_sar/week_3/day1.md",
     "b3_sar/week_1/day1.md",
-    "b3_sar/week_2/day1.md",
-    "b3_sar/week_2/day2.md",
-    "b3_sar/week_5",
     "E5_mena/week_5/day2.md",
     "m5_shrmi/week_5/day1.md",
-    "m5_shrmi/week_5",
     "E5_mena/week_5/day1.md",
     "E5_mena/week_5/pics/IMG_20241006_092420.jpg",
     "E5_mena/week_5/pics/IMG_20241006_092252.jpg",
@@ -208,22 +282,17 @@
     "E5_mena/week_5/pics/IMG_20241006_091222.jpg",
     "E5_mena/week_5/pics/IMG_20241006_090920.jpg",
     "E5_mena/week_5/day1.sync-conflict-20241006-083335-LNZJYDH.md",
-    "E5_mena/week_5/pics",
     "E5_mena/week_5/Untitled.md",
     "E5_mena/Week_4/day2.md",
     "E5_mena/Week_4/day1.md",
-    "E5_mena/week_5",
     "ux_smi/week_5/day1.md",
     "m5_shrmi/week_1/day2.md",
     "m5_shrmi/Week_4/day1.md",
     "ux_smi/Week_4/day2.md",
     "ux_smi/Week_4/day1.md",
-    "b3_sar/Week_4/day1.md",
     "m5_shrmi/Week_4/day2.md",
     "m5_shrmi/week_3/day1.md",
     "README.md",
-    "ux_smi/Week_4/day1.sync-conflict-20240930-111542-LNZJYDH.md",
-    "m5_shrmi/Week_4/day1.sync-conflict-20240929-125954-LNZJYDH.md",
     "Untitled.canvas"
   ]
 }
