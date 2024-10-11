@@ -4,98 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "09c75d0738d3bca3",
-        "type": "split",
-        "children": [
-          {
-            "id": "90b33345658ebe7e",
-            "type": "tabs",
-            "dimension": 57.13028169014085,
-            "children": [
-              {
-                "id": "6d90272c6e753c8d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "b3_sar/week_5/day2.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "1954d28b1f5d6476",
-            "type": "tabs",
-            "dimension": 42.86971830985916,
-            "children": [
-              {
-                "id": "bbe7534bcbdc5202",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "b3_sar/Week_4/day1.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "df628a9999e16318",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "b3_sar/week_3/day1.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c75a384f98d3d9c6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "b3_sar/week_2/day1.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "9a155ed53debdb80",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "b3_sar/week_2/day2.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 3
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "02374b1ca557485f",
+        "id": "b1b212d5a0ae7602",
         "type": "tabs",
         "children": [
           {
-            "id": "5d9e2060691325e3",
+            "id": "02bc5dbfd8852c0b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "b3_sar/Week_4/Practical 2 - Writing SQL.pdf"
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -149,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "570ca965e1ad22c7",
@@ -166,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "b3_sar/week_5/day2.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "b3_sar/week_5/day2.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "b3_sar/week_5/day2.md"
+                "file": "Home.md"
               }
             }
           },
@@ -246,16 +165,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6d90272c6e753c8d",
+  "active": "02bc5dbfd8852c0b",
   "lastOpenFiles": [
-    "b3_sar/Week_4/Practical 2 - Writing SQL.pdf",
     "b3_sar/week_5/day2.md",
+    "Home.md",
+    "b3_sar/Week_4/Practical 2 - Writing SQL.pdf",
     "b3_sar/week_2/day2.md",
     "b3_sar/week_2/day1.md",
-    "b3_sar/week_3/day1.md",
     "b3_sar/Week_4/day1.md",
+    "b3_sar/week_3/day1.md",
+    "b3_sar/week_5/day2.sync-conflict-20241009-133436-LNZJYDH.md",
+    "b3_sar/week_5/saide",
     "b3_sar/Week_4/day2.md",
-    "Home.md",
     "b3_sar/Week_4/Practical 1 -  MySQL and phpMyAdmin.pdf",
     "b3_sar/week_5/day1.md",
     "m5_shrmi/week_5/day2.md",
@@ -266,7 +187,6 @@
     "m5_shrmi/week_5/prac3.ows",
     "m5_shrmi/week_5/Practical3_Newspaper_SoldOut.csv",
     "m5_shrmi/week_5/Practical3_Newspaper.csv",
-    "m5_shrmi/week_5/CSCU9M5 Practical 4.pdf",
     "b3_sar/week_1/day1.md",
     "E5_mena/week_5/day2.md",
     "m5_shrmi/week_5/day1.md",
@@ -292,7 +212,6 @@
     "ux_smi/Week_4/day1.md",
     "m5_shrmi/Week_4/day2.md",
     "m5_shrmi/week_3/day1.md",
-    "README.md",
     "Untitled.canvas"
   ]
 }

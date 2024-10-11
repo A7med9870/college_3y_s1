@@ -9,8 +9,6 @@ first table
 	    salary DECIMAL(7, 3),
 	    full_time DECIMAL(6)
 	);
-.
-
 
 
 second one

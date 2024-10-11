@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ce6996f3a681fba",
+        "id": "61aac470b3eaf1c3",
         "type": "tabs",
         "children": [
           {
-            "id": "745282d1982c71c9",
+            "id": "63bec7179fcda43a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,8 +149,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "745282d1982c71c9",
+  "active": "63bec7179fcda43a",
   "lastOpenFiles": [
+    "b3_sar/week_5/day2.md",
+    "b3_sar/week_5/day2.sync-conflict-20241009-133436-LNZJYDH.md",
+    "b3_sar/Week_4/Practical 2 - Writing SQL.pdf",
     "E5_mena/week_5/day2.md",
     "Home.md",
     "m5_shrmi/week_5/day1.md",
@@ -182,7 +185,6 @@
     "b3_sar/week_2/day1.md",
     "b3_sar/week_1/day1.md",
     "b3_sar/Week_4/Practical 1 -  MySQL and phpMyAdmin.pdf",
-    "b3_sar/Week_4/Practical 2 - Writing SQL.pdf",
     "m5_shrmi/Week_4/day2.md",
     "b3_sar/Week_4/day1.md",
     "ux_smi/Week_4/day1.sync-conflict-20240930-111542-LNZJYDH.md",
@@ -194,8 +196,6 @@
     "ux_smi/Week_4/__MACOSX/WebMM/Media",
     "m5_shrmi/week_3/day1.md",
     "bhome.md",
-    "E5_mena/week_2/day2.md",
-    "b3_sar/week_2/day_1.md",
-    "ux_smi/week_3/day2.md"
+    "E5_mena/week_2/day2.md"
   ]
 }
