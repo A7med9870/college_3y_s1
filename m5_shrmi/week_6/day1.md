@@ -2,8 +2,8 @@ watch a video
 knn
 k nearest neighbors
 
-what is classificaton
-assigning an object to a cretain class based on its similarity to previous examples of other objects
+what is classification
+assigning an object to a certain class based on its similarity to previous examples of other objects
 can be done with reference to original data or based on a model of that data
 	me it’s round geen and ediable
 	you its an apple
@@ -56,3 +56,7 @@ ID3
 ![[IMG_20241013_131553.jpg]]
 
 ![[IMG_20241013_131700.jpg]]
+
+watch the other videos
+
+the assignment report
