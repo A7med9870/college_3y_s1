@@ -16,6 +16,9 @@ This is the home page for the notes that has been taken by a fella student
     - ▶️ Week 5
         - [[m5_shrmi/week_5/day1|Day 1]]
         - [[m5_shrmi/week_5/day2|Day 2]]
+    - ▶️ Week 6
+        - [[m5_shrmi/week_6/day1|Day 1]]
+        - [[m5_shrmi/week_6/day2|Day 2]]
 
 - **E5_mena**
     - ▶️ Week 1
@@ -48,6 +51,9 @@ This is the home page for the notes that has been taken by a fella student
     - ▶️ Week 5
         - [[ux_smi/week_5/day1|Day 1]]
         - [[ux_smi/week_5/day2|Day 2]]
+    - ▶️ Week 6
+        - [[ux_smi/week_6/day1|Day 1]]
+        - [[ux_smi/week_6/day2|Day 2]]
 
 - **b3_sar**
     - ▶️ Week 1
@@ -63,6 +69,9 @@ This is the home page for the notes that has been taken by a fella student
     - ▶️ Week 5
         - [[b3_sar/week_5/day1|Day 1]]
         - [[b3_sar/week_5/day2|Day 2]]
+    - ▶️ Week 6
+        - [[b3_sar/week_6/day1|Day 1]]
+        - [[b3_sar/week_6/day2|Day 2]]
 
 hope it helps you with your own studies
 
