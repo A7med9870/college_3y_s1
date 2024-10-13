@@ -31,6 +31,9 @@ This is the home page for the notes that has been taken by a fella student
     - ▶️ Week 5
         - [[E5_mena/week_5/day1|Day 1]]
         - [[E5_mena/week_5/day2|Day 2]]
+    - ▶️ Week 6
+        - [[E5_mena/week_6/day1|Day 1]]
+        - [[E5_mena/week_6/day2|Day 2]]
 
 - **ux_smi**
     - ▶️ Week 1

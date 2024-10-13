@@ -81,4 +81,4 @@ descending → largest to smallest “z-a,9-0”
 .10
 
 	select * from employee2
-		where name like "%john%"
+		where name like "%john%"1

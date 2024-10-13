@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b1b212d5a0ae7602",
+        "id": "c090e38ba88d074f",
         "type": "tabs",
         "children": [
           {
-            "id": "02bc5dbfd8852c0b",
+            "id": "be26d87169e02d0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "E5_mena/week_6/day1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "570ca965e1ad22c7",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "E5_mena/week_6/day1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "E5_mena/week_6/day1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "E5_mena/week_6/day1.md"
               }
             }
           },
@@ -165,16 +166,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "02bc5dbfd8852c0b",
+  "active": "be26d87169e02d0e",
   "lastOpenFiles": [
-    "b3_sar/week_5/day2.md",
     "Home.md",
+    "E5_mena/week_6/day1.md",
+    "E5_mena/week_6",
+    "b3_sar/week_5/saide.md",
+    "b3_sar/week_5/day2.md",
+    "b3_sar/week_5/day2.sync-conflict-20241009-133436-LNZJYDH.md",
     "b3_sar/Week_4/Practical 2 - Writing SQL.pdf",
     "b3_sar/week_2/day2.md",
     "b3_sar/week_2/day1.md",
     "b3_sar/Week_4/day1.md",
     "b3_sar/week_3/day1.md",
-    "b3_sar/week_5/day2.sync-conflict-20241009-133436-LNZJYDH.md",
     "b3_sar/week_5/saide",
     "b3_sar/Week_4/day2.md",
     "b3_sar/Week_4/Practical 1 -  MySQL and phpMyAdmin.pdf",
@@ -186,7 +190,6 @@
     "m5_shrmi/week_5/prca3.ows",
     "m5_shrmi/week_5/prac3.ows",
     "m5_shrmi/week_5/Practical3_Newspaper_SoldOut.csv",
-    "m5_shrmi/week_5/Practical3_Newspaper.csv",
     "b3_sar/week_1/day1.md",
     "E5_mena/week_5/day2.md",
     "m5_shrmi/week_5/day1.md",
@@ -211,7 +214,6 @@
     "ux_smi/Week_4/day2.md",
     "ux_smi/Week_4/day1.md",
     "m5_shrmi/Week_4/day2.md",
-    "m5_shrmi/week_3/day1.md",
     "Untitled.canvas"
   ]
 }
