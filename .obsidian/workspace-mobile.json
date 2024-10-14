@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8712c1fafb4709e2",
+        "id": "2538372f7d5aa4cb",
         "type": "tabs",
         "children": [
           {
-            "id": "476a468111ab31ab",
+            "id": "71900f2f61530edf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "m5_shrmi/week_6/day1.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "m5_shrmi/week_6/day1.md",
+            "file": "Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "m5_shrmi/week_6/day1.md",
+            "file": "Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "m5_shrmi/week_6/day1.md"
+            "file": "Home.md"
           }
         }
       },
@@ -135,7 +135,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,8 +149,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "476a468111ab31ab",
+  "active": "71900f2f61530edf",
   "lastOpenFiles": [
+    "b3_sar/Week_4/Practical 1 -  MySQL and phpMyAdmin.pdf",
+    "m5_shrmi/week_6/day1.md",
     "m5_shrmi/week_6/picsd1/IMG_20241013_131553.jpg",
     "m5_shrmi/week_6/picsd1/IMG_20241013_131441.jpg",
     "m5_shrmi/week_6/picsd1/IMG_20241013_131700.jpg",
@@ -161,10 +163,8 @@
     "IMG_20241013_131441.jpg",
     "IMG_20241013_131356.jpg",
     "IMG_20241013_131334.jpg",
-    "m5_shrmi/week_6/picsd1/IMG_20241013_131226.jpg",
     "m5_shrmi/week_6/picsd1",
     "Home.md",
-    "m5_shrmi/week_6/day1.md",
     "m5_shrmi/week_6/day1.sync-conflict-20241013-121918-LNZJYDH.md",
     "E5_mena/week_6/day1.md",
     "b3_sar/week_5/day2.md",
@@ -189,7 +189,6 @@
     "b3_sar/week_2/day2.md",
     "b3_sar/week_2/day1.md",
     "b3_sar/week_1/day1.md",
-    "b3_sar/Week_4/Practical 1 -  MySQL and phpMyAdmin.pdf",
     "m5_shrmi/Week_4/day2.md",
     "b3_sar/Week_4/day1.md",
     "ux_smi/Week_4/WebMM/MMappBSfin.html",

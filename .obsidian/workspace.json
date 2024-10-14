@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "014fe845cece5f54",
+        "id": "a90f12e2913582ee",
         "type": "tabs",
         "children": [
           {
-            "id": "979f417ef569e003",
+            "id": "0556eb53581b1dc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "m5_shrmi/week_6/day1.md",
+                "file": "ux_smi/week_6/day1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "m5_shrmi/week_6/day1.md",
+                "file": "ux_smi/week_6/day1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "m5_shrmi/week_6/day1.md",
+                "file": "ux_smi/week_6/day1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "m5_shrmi/week_6/day1.md"
+                "file": "ux_smi/week_6/day1.md"
               }
             }
           },
@@ -166,10 +166,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "979f417ef569e003",
+  "active": "0556eb53581b1dc5",
   "lastOpenFiles": [
-    "m5_shrmi/week_5/CSCU9M5 Practical 4.pdf",
+    "Home.md",
+    "ux_smi/week_6/day1.md",
+    "ux_smi/week_6",
+    "E5_mena/week_6/day2.md",
     "m5_shrmi/week_6/day1.md",
+    "m5_shrmi/week_5/CSCU9M5 Practical 4.pdf",
     "m5_shrmi/week_6/picsd1/IMG_20241013_131700.jpg",
     "m5_shrmi/week_6/picsd1/IMG_20241013_131553.jpg",
     "m5_shrmi/week_6/picsd1/IMG_20241013_131441.jpg",
@@ -182,7 +186,6 @@
     "m5_shrmi/week_6/picsd1/IMG_20241013_130616.jpg",
     "m5_shrmi/week_6/day1.sync-conflict-20241013-121918-LNZJYDH.md",
     "m5_shrmi/week_6/picsd1",
-    "Home.md",
     "m5_shrmi/week_6",
     "E5_mena/week_6/day1.md",
     "E5_mena/week_6",
@@ -201,8 +204,6 @@
     "m5_shrmi/week_5/day2.md",
     "m5_shrmi/week_5/CSCU9M5 Practical 3.pdf",
     "m5_shrmi/week_5/prca3_p2.ows",
-    "m5_shrmi/week_5/prca3_omr.ows",
-    "m5_shrmi/week_5/prca3.ows",
     "b3_sar/week_1/day1.md",
     "E5_mena/week_5/day2.md",
     "m5_shrmi/week_5/day1.md",
@@ -213,7 +214,6 @@
     "E5_mena/Week_4/day1.md",
     "ux_smi/week_5/day1.md",
     "m5_shrmi/week_1/day2.md",
-    "m5_shrmi/Week_4/day1.md",
     "Untitled.canvas"
   ]
 }
