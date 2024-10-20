@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2538372f7d5aa4cb",
+        "id": "c269a0450adb1bf4",
         "type": "tabs",
         "children": [
           {
-            "id": "71900f2f61530edf",
+            "id": "9f2b1010be86470a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,8 +149,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "71900f2f61530edf",
+  "active": "9f2b1010be86470a",
   "lastOpenFiles": [
+    "ux_smi/Week_4/day2.md",
+    "Home.md",
+    "ux_smi/week_3/HCI-UX Assignment 1 - 2024.pdf",
+    "b3_sar/week_6/day1.md",
     "b3_sar/Week_4/Practical 1 -  MySQL and phpMyAdmin.pdf",
     "m5_shrmi/week_6/day1.md",
     "m5_shrmi/week_6/picsd1/IMG_20241013_131553.jpg",
@@ -164,7 +168,6 @@
     "IMG_20241013_131356.jpg",
     "IMG_20241013_131334.jpg",
     "m5_shrmi/week_6/picsd1",
-    "Home.md",
     "m5_shrmi/week_6/day1.sync-conflict-20241013-121918-LNZJYDH.md",
     "E5_mena/week_6/day1.md",
     "b3_sar/week_5/day2.md",
@@ -172,7 +175,6 @@
     "b3_sar/Week_4/Practical 2 - Writing SQL.pdf",
     "E5_mena/week_5/day2.md",
     "m5_shrmi/week_5/day1.md",
-    "ux_smi/Week_4/day2.md",
     "ux_smi/Week_4/day1.md",
     "E5_mena/Week_4/day2.md",
     "E5_mena/Week_4/day1.md",
@@ -190,11 +192,9 @@
     "b3_sar/week_2/day1.md",
     "b3_sar/week_1/day1.md",
     "m5_shrmi/Week_4/day2.md",
-    "b3_sar/Week_4/day1.md",
     "ux_smi/Week_4/WebMM/MMappBSfin.html",
     "ux_smi/Week_4/WebMM/jquery.js",
     "ux_smi/Week_4/WebMM/MMappBS.html",
-    "ux_smi/Week_4/WebMM/MMfinalraw.html",
-    "ux_smi/Week_4/WebMM/Media/pexels-kindel-media-7687598.mp4"
+    "ux_smi/Week_4/WebMM/MMfinalraw.html"
   ]
 }

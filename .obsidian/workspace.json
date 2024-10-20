@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a90f12e2913582ee",
+        "id": "9c0e956ee78eabdd",
         "type": "tabs",
         "children": [
           {
-            "id": "0556eb53581b1dc5",
+            "id": "d4c053fb908fc5ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ux_smi/week_6/day1.md",
+                "file": "m5_shrmi/week_7/day1.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "732d7f5193ccf088",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "m5_shrmi/week_7/CSCU9M5 Practical 4.pdf"
               }
             }
           }
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ux_smi/week_6/day1.md",
+                "file": "m5_shrmi/week_7/day1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ux_smi/week_6/day1.md",
+                "file": "m5_shrmi/week_7/day1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ux_smi/week_6/day1.md"
+                "file": "m5_shrmi/week_7/day1.md"
               }
             }
           },
@@ -147,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,54 +176,54 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0556eb53581b1dc5",
+  "active": "d4c053fb908fc5ab",
   "lastOpenFiles": [
+    "m5_shrmi/week_7/CSCU9M5 Practical 4.pdf",
+    "m5_shrmi/week_7/commands.txt",
+    "m5_shrmi/week_5/prac4.ows",
+    "m5_shrmi/week_7/day1.md",
+    "m5_shrmi/week_7/iris.csv",
     "Home.md",
+    "m5_shrmi/week_7",
+    "E5_mena/week_7/day1.md",
+    "E5_mena/week_7/Use_case_restaurant_model.svg",
+    "E5_mena/week_7/Use_case_restaurant_model.svg.png",
+    "E5_mena/week_7",
+    "ux_smi/Week_4/day1.md",
+    "ux_smi/Week_4/WebMM.zip",
+    "ux_smi/Week_4/WebMM.zip.uhjczk.part",
+    "m5_shrmi/week_6/day2.md",
+    "m5_shrmi/week_6/CSCU9M5 Assignment 2024_od.pdf",
+    "m5_shrmi/week_6/lu2529294wgxz.tmp",
+    "m5_shrmi/week_6/CSCU9M5 Assignment 2024_od.doc",
+    "b3_sar/week_6/pics_d1/screenshot-20241014-132521 1.png",
+    "b3_sar/week_6/pics_d1/screenshot-20241014-132521.png",
     "ux_smi/week_6/day1.md",
-    "ux_smi/week_6",
+    "b3_sar/week_6/day1.md",
+    "b3_sar/week_6/pics_d1/ksnip_20241014-131617.png",
+    "b3_sar/week_5/day2.md",
+    "b3_sar/week_6/pics_d1/screenshot-20241014-130706.png",
+    "b3_sar/week_6/pics_d1/screenshot-20241014-125257.png",
+    "b3_sar/week_6/pics_d1/screenshot-20241014-124334.png",
+    "b3_sar/week_5/day1.md",
+    "b3_sar/week_6/pics_d1/screenshot-20241014-121246.png",
     "E5_mena/week_6/day2.md",
     "m5_shrmi/week_6/day1.md",
-    "m5_shrmi/week_5/CSCU9M5 Practical 4.pdf",
     "m5_shrmi/week_6/picsd1/IMG_20241013_131700.jpg",
-    "m5_shrmi/week_6/picsd1/IMG_20241013_131553.jpg",
-    "m5_shrmi/week_6/picsd1/IMG_20241013_131441.jpg",
-    "m5_shrmi/week_6/picsd1/IMG_20241013_131356.jpg",
-    "m5_shrmi/week_6/picsd1/IMG_20241013_131334.jpg",
-    "m5_shrmi/week_6/picsd1/IMG_20241013_131226.jpg",
-    "m5_shrmi/week_6/picsd1/IMG_20241013_131047.jpg",
-    "m5_shrmi/week_6/picsd1/IMG_20241013_130845.jpg",
-    "m5_shrmi/week_6/picsd1/IMG_20241013_130834.jpg",
-    "m5_shrmi/week_6/picsd1/IMG_20241013_130616.jpg",
     "m5_shrmi/week_6/day1.sync-conflict-20241013-121918-LNZJYDH.md",
-    "m5_shrmi/week_6/picsd1",
-    "m5_shrmi/week_6",
     "E5_mena/week_6/day1.md",
-    "E5_mena/week_6",
     "b3_sar/week_5/saide.md",
-    "b3_sar/week_5/day2.md",
     "b3_sar/week_5/day2.sync-conflict-20241009-133436-LNZJYDH.md",
-    "b3_sar/Week_4/Practical 2 - Writing SQL.pdf",
     "b3_sar/week_2/day2.md",
     "b3_sar/week_2/day1.md",
     "b3_sar/Week_4/day1.md",
     "b3_sar/week_3/day1.md",
-    "b3_sar/week_5/saide",
     "b3_sar/Week_4/day2.md",
-    "b3_sar/Week_4/Practical 1 -  MySQL and phpMyAdmin.pdf",
-    "b3_sar/week_5/day1.md",
     "m5_shrmi/week_5/day2.md",
-    "m5_shrmi/week_5/CSCU9M5 Practical 3.pdf",
-    "m5_shrmi/week_5/prca3_p2.ows",
     "b3_sar/week_1/day1.md",
     "E5_mena/week_5/day2.md",
     "m5_shrmi/week_5/day1.md",
     "E5_mena/week_5/day1.md",
-    "E5_mena/week_5/day1.sync-conflict-20241006-083335-LNZJYDH.md",
-    "E5_mena/week_5/Untitled.md",
-    "E5_mena/Week_4/day2.md",
-    "E5_mena/Week_4/day1.md",
-    "ux_smi/week_5/day1.md",
-    "m5_shrmi/week_1/day2.md",
     "Untitled.canvas"
   ]
 }

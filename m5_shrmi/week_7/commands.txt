@@ -1,0 +1,254 @@
+ip install PyQt5 PyQtWebEngine
+error: externally-managed-environment
+
+× This environment is externally managed
+╰─> To install Python packages system-wide, try 'pacman -S
+python-xyz', where xyz is the package you are trying to
+install.
+
+If you wish to install a non-Arch-packaged Python package,
+create a virtual environment using 'python -m venv path/to/venv'.
+Then use path/to/venv/bin/python and path/to/venv/bin/pip.
+
+If you wish to install a non-Arch packaged Python application,
+it may be easiest to use 'pipx install xyz', which will manage a
+virtual environment for you. Make sure you have python-pipx
+installed via pacman.
+
+note: If you believe this is a mistake, please contact your Python installation or OS distribution provider. You can override this, at the risk of breakingyour Python installation or OS, by passing --break-system-packages.
+hint: See PEP 668 for the detailed specification.
+
+╭─ahmed@ahmed in ~ took 2s
+[🔴] × sudo pip install PyQt5 PyQtWebEngine
+[sudo] password for ahmed:
+error: externally-managed-environment
+
+× This environment is externally managed
+╰─> To install Python packages system-wide, try 'pacman -S
+python-xyz', where xyz is the package you are trying to
+install.
+
+If you wish to install a non-Arch-packaged Python package,
+create a virtual environment using 'python -m venv path/to/venv'.
+Then use path/to/venv/bin/python and path/to/venv/bin/pip.
+
+If you wish to install a non-Arch packaged Python application,
+it may be easiest to use 'pipx install xyz', which will manage a
+virtual environment for you. Make sure you have python-pipx
+installed via pacman.
+
+note: If you believe this is a mistake, please contact your Python installation or OS distribution provider. You can override this, at the risk of breakingyour Python installation or OS, by passing --break-system-packages.
+hint: See PEP 668 for the detailed specification.
+
+╭─ahmed@ahmed in ~ as 🧙 took 3s
+[🔴] × pip install orange3
+error: externally-managed-environment
+
+× This environment is externally managed
+╰─> To install Python packages system-wide, try 'pacman -S
+python-xyz', where xyz is the package you are trying to
+install.
+
+If you wish to install a non-Arch-packaged Python package,
+create a virtual environment using 'python -m venv path/to/venv'.
+Then use path/to/venv/bin/python and path/to/venv/bin/pip.
+
+If you wish to install a non-Arch packaged Python application,
+it may be easiest to use 'pipx install xyz', which will manage a
+virtual environment for you. Make sure you have python-pipx
+installed via pacman.
+
+note: If you believe this is a mistake, please contact your Python installation or OS distribution provider. You can override this, at the risk of breakingyour Python installation or OS, by passing --break-system-packages.
+hint: See PEP 668 for the detailed specification.
+
+╭─ahmed@ahmed in ~ as 🧙 took 1s
+[🔴] × pacman -S pip install orange3
+error: you cannot perform this operation unless you are root.
+
+╭─ahmed@ahmed in ~ as 🧙 took 50ms
+[🔴] × sudo pacman -S pip install orange3
+error: target not found: pip
+error: target not found: install
+error: target not found: orange3
+
+╭─ahmed@ahmed in ~ as 🧙 took 893ms
+[🔴] × pip install PyQt5 PyQtWebEngine^C
+
+╭─ahmed@ahmed in ~ as 🧙 took 893ms
+[🔴] × sudo apt install build-essential python3-dev python3-pip
+sudo: apt: command not found
+
+╭─ahmed@ahmed in ~ as 🧙 took 126ms
+[🔴] × sudo pacman -S install build-essential python3-dev python3-pip
+error: target not found: install
+error: target not found: build-essential
+error: target not found: python3-dev
+error: target not found: python3-pip
+
+╭─ahmed@ahmed in ~ as 🧙 took 791ms
+[🔴] × sudo pacman -S python-pyqt5 python-pyqt5-webengine
+
+warning: python-pyqt5-5.15.11-1 is up to date -- reinstalling
+resolving dependencies...
+looking for conflicting packages...
+
+Package (2)                   Old Version  New Version  Net Change  Download Size
+
+extra/python-pyqt5            5.15.11-1    5.15.11-1      0.00 MiB       3.85 MiB
+extra/python-pyqt5-webengine               5.15.7-1       0.55 MiB       0.10 MiB
+
+Total Download Size:    3.95 MiB
+Total Installed Size:  25.56 MiB
+Net Upgrade Size:       0.55 MiB
+
+:: Proceed with installation? [Y/n] y
+:: Retrieving packages...
+python-pyqt5-webengine-5.15.7-1-x86_64                           105.9 KiB  39.5 KiB/s 00:03 [------------------------------------------------------] 100%
+python-pyqt5-5.15.11-1-x86_64                                      3.9 MiB   928 KiB/s 00:04 [------------------------------------------------------] 100%
+Total (2/2)                                                        4.0 MiB   885 KiB/s 00:05 [------------------------------------------------------] 100%
+(2/2) checking keys in keyring                                                                [------------------------------------------------------] 100%
+(2/2) checking package integrity                                                              [------------------------------------------------------] 100%
+(2/2) loading package files                                                                   [------------------------------------------------------] 100%
+(2/2) checking for file conflicts                                                             [------------------------------------------------------] 100%
+(2/2) checking available disk space                                                           [------------------------------------------------------] 100%
+:: Running pre-transaction hooks...
+(1/2) Rejecting pacman transaction if running in snapshot...
+(2/2) Performing snapper pre snapshots for the following configurations...
+==> root: 182
+:: Processing package changes...
+(1/2) reinstalling python-pyqt5                                                               [------------------------------------------------------] 100%
+(2/2) installing python-pyqt5-webengine                                                       [------------------------------------------------------] 100%
+:: Running post-transaction hooks...
+(1/7) Arming ConditionNeedsUpdate...
+(2/7) Refreshing PackageKit...
+(3/7) Foreign/AUR package notification
+python-vdf-solstice 3.5-1
+(4/7) Orphaned package notification...
+=> No orphans found.
+(5/7) Checking for .pacnew and .pacsave files...
+.pac* files found:
+/etc/locale.gen.pacnew
+/etc/pacman.conf.pacnew
+/etc/makepkg.conf.d/rust.conf.pacnew
+/etc/pacman.d/mirrorlist.pacnew
+/etc/updatedb.conf.pacsave
+Please check and merge
+(6/7) Performing snapper post snapshots for the following configurations...
+==> root: 183
+(7/7) Syncing all file systems...
+
+╭─ahmed@ahmed in ~ as 🧙 took 15s
+╰─λ pip install orange3
+
+error: externally-managed-environment
+
+× This environment is externally managed
+╰─> To install Python packages system-wide, try 'pacman -S
+python-xyz', where xyz is the package you are trying to
+install.
+
+If you wish to install a non-Arch-packaged Python package,
+create a virtual environment using 'python -m venv path/to/venv'.
+Then use path/to/venv/bin/python and path/to/venv/bin/pip.
+
+If you wish to install a non-Arch packaged Python application,
+it may be easiest to use 'pipx install xyz', which will manage a
+virtual environment for you. Make sure you have python-pipx
+installed via pacman.
+
+note: If you believe this is a mistake, please contact your Python installation or OS distribution provider. You can override this, at the risk of breakingyour Python installation or OS, by passing --break-system-packages.
+hint: See PEP 668 for the detailed specification.
+
+╭─ahmed@ahmed in ~ as 🧙 took 1s
+[🔴] × sudo pacman -S python-pipx
+
+warning: python-pipx-1.6.0-1 is up to date -- reinstalling
+resolving dependencies...
+looking for conflicting packages...
+
+Package (1)        Old Version  New Version  Net Change  Download Size
+
+extra/python-pipx  1.6.0-1      1.6.0-1        0.00 MiB       0.15 MiB
+
+Total Download Size:   0.15 MiB
+Total Installed Size:  0.78 MiB
+Net Upgrade Size:      0.00 MiB
+
+:: Proceed with installation? [Y/n] y
+:: Retrieving packages...
+python-pipx-1.6.0-1-any                                          156.6 KiB   156 KiB/s 00:01 [------------------------------------------------------] 100%
+(1/1) checking keys in keyring                                                                [------------------------------------------------------] 100%
+(1/1) checking package integrity                                                              [------------------------------------------------------] 100%
+(1/1) loading package files                                                                   [------------------------------------------------------] 100%
+(1/1) checking for file conflicts                                                             [------------------------------------------------------] 100%
+(1/1) checking available disk space                                                           [------------------------------------------------------] 100%
+:: Running pre-transaction hooks...
+(1/2) Rejecting pacman transaction if running in snapshot...
+(2/2) Performing snapper pre snapshots for the following configurations...
+==> root: 184
+:: Processing package changes...
+(1/1) reinstalling python-pipx                                                                [------------------------------------------------------] 100%
+:: Running post-transaction hooks...
+(1/7) Arming ConditionNeedsUpdate...
+(2/7) Refreshing PackageKit...
+(3/7) Foreign/AUR package notification
+python-vdf-solstice 3.5-1
+(4/7) Orphaned package notification...
+=> No orphans found.
+(5/7) Checking for .pacnew and .pacsave files...
+.pac* files found:
+/etc/locale.gen.pacnew
+/etc/pacman.conf.pacnew
+/etc/makepkg.conf.d/rust.conf.pacnew
+/etc/pacman.d/mirrorlist.pacnew
+/etc/updatedb.conf.pacsave
+Please check and merge
+(6/7) Performing snapper post snapshots for the following configurations...
+==> root: 185
+(7/7) Syncing all file systems...
+
+╭─ahmed@ahmed in ~ as 🧙 took 8s
+╰─λ pipx install orange3
+
+'orange3' already seems to be installed. Not modifying existing installation in '/home/ahmed/.local/share/pipx/venvs/orange3'. Pass '--force' to force
+installation.
+
+╭─ahmed@ahmed in ~ as 🧙 took 469ms
+╰─λ orange-canvas
+
+Traceback (most recent call last):
+File "/home/ahmed/.local/bin/orange-canvas", line 5, in <module>
+from Orange.canvas.__main__ import main
+File "/home/ahmed/.local/share/pipx/venvs/orange3/lib/python3.12/site-packages/Orange/canvas/__main__.py", line 22, in <module>
+from AnyQt.QtGui import QColor, QDesktopServices, QIcon, QPalette
+File "/home/ahmed/.local/share/pipx/venvs/orange3/lib/python3.12/site-packages/AnyQt/QtGui.py", line 2, in <module>
+from .QtCore import QT_VERSION_INFO as __QT_VERSION_INFO
+File "/home/ahmed/.local/share/pipx/venvs/orange3/lib/python3.12/site-packages/AnyQt/QtCore.py", line 1, in <module>
+from . import _api
+File "/home/ahmed/.local/share/pipx/venvs/orange3/lib/python3.12/site-packages/AnyQt/_api.py", line 116, in <module>
+raise ImportError("PyQt4, PyQt5, PySide or PySide2 are not available for import")
+ImportError: PyQt4, PyQt5, PySide or PySide2 are not available for import
+
+╭─ahmed@ahmed in ~ as 🧙 took 3s
+[🔴] × pipx runpip orange3 install pyqt5
+
+Collecting pyqt5
+Downloading PyQt5-5.15.11-cp38-abi3-manylinux_2_17_x86_64.whl.metadata (2.1 kB)
+Collecting PyQt5-sip<13,>=12.15 (from pyqt5)
+Downloading PyQt5_sip-12.15.0-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.whl.metadata (421 bytes)
+Collecting PyQt5-Qt5<5.16.0,>=5.15.2 (from pyqt5)
+Downloading PyQt5_Qt5-5.15.15-py3-none-manylinux2014_x86_64.whl.metadata (536 bytes)
+Downloading PyQt5-5.15.11-cp38-abi3-manylinux_2_17_x86_64.whl (8.2 MB)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.2/8.2 MB 1.5 MB/s eta 0:00:00
+Downloading PyQt5_Qt5-5.15.15-py3-none-manylinux2014_x86_64.whl (59.8 MB)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 59.8/59.8 MB 5.2 MB/s eta 0:00:00
+Downloading PyQt5_sip-12.15.0-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.whl (281 kB)
+Installing collected packages: PyQt5-Qt5, PyQt5-sip, pyqt5
+Successfully installed PyQt5-Qt5-5.15.15 PyQt5-sip-12.15.0 pyqt5-5.15.11
+
+╭─ahmed@ahmed in ~ as 🧙 took 30s
+╰─λ orange-canvas
+
+qt.qpa.plugin: Could not find the Qt platform plugin "wayland" in ""
+/home/ahmed/.local/share/pipx/venvs/orange3/lib/python3.12/site-packages/orangewidget/gui.py:2075: UserWarning: decorate OWKNNLearner.apply with @gui.deferred and then explicitly call apply.now or apply.deferred.
+warnings.warn(
