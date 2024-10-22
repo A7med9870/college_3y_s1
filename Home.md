@@ -60,6 +60,9 @@ This is the home page for the notes that has been taken by a fella student
     - ▶️ Week 6
         - [[ux_smi/week_6/day1|Day 1]]
         - [[ux_smi/week_6/day2|Day 2]]
+    - ▶️ Week 7
+        - [[ux_smi/week_7/day1|Day 1]]
+        - [[ux_smi/week_7/day2|Day 2]]
 
 - **b3_sar**
     - ▶️ Week 1
@@ -78,6 +81,9 @@ This is the home page for the notes that has been taken by a fella student
     - ▶️ Week 6
         - [[b3_sar/week_6/day1|Day 1]]
         - [[b3_sar/week_6/day2|Day 2]]
+    - ▶️ Week 7
+        - [[b3_sar/week_7/day1|Day 1]]
+        - [[b3_sar/week_7/day2|Day 2]]
 
 hope it helps you with your own studies
 
