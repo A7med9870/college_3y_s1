@@ -93,3 +93,7 @@ or f and female, when they should be one row
 flight nmber doesn’t really matar
 
 3 models use
+
+test
+which model is the best
+in test and score

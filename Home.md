@@ -25,6 +25,9 @@ This is the home page for the notes that has been taken by a fella student
     - ▶️ Week 8
         - [[m5_shrmi/week_8/day1|Day 1]]
         - [[m5_shrmi/week_8/day2|Day 2]]
+    - ▶️ Week 9
+        - [[m5_shrmi/week_9/day1|Day 1]]
+        - [[m5_shrmi/week_9/day2|Day 2]]
 
 - **E5_mena**
     - ▶️ Week 1
@@ -49,6 +52,9 @@ This is the home page for the notes that has been taken by a fella student
     - ▶️ Week 8
         - [[E5_mena/week_8/day1|Day 1]]
         - [[E5_mena/week_8/day2|Day 2]]
+    - ▶️ Week 9
+        - [[E5_mena/week_9/day1|Day 1]]
+        - [[E5_mena/week_9/day2|Day 2]]
 - **ux_smi**
     - ▶️ Week 1
         - [[ux_smi/week_1/P1-HTMLExerciseNo1.0.pdf|html excrise 1]]
@@ -92,6 +98,9 @@ This is the home page for the notes that has been taken by a fella student
     - ▶️ Week 8
         - [[b3_sar/week_8/day1|Day 1]]
         - [[b3_sar/week_8/day2|Day 2]]
+    - ▶️ Week 9
+        - [[b3_sar/week_9/day1|Day 1]]
+        - [[b3_sar/week_9/day2|Day 2]]
 hope it helps you with your own studies
 
 | Header 1 | Header 2 | Header 3 |

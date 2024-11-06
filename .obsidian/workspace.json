@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d096cdeb086babb2",
+        "id": "e9d248186904d673",
         "type": "tabs",
         "children": [
           {
-            "id": "38d4735f0ba371c8",
+            "id": "14750d0a95d2b44d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "E5_mena/week_9/day1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "day1"
             }
           }
         ]
@@ -187,24 +187,38 @@
     }
   },
   "floating": {
-    "id": "2d01e04b25b8c443",
+    "id": "981e5084ae1aa731",
     "type": "floating",
     "children": [
       {
-        "id": "1b0d9c64c0d7abf2",
+        "id": "8a978bc13049dba6",
         "type": "window",
         "children": [
           {
-            "id": "b48275f0ebb21a75",
+            "id": "2cf3279e7a101208",
             "type": "tabs",
             "children": [
               {
-                "id": "a65be6fd082373ff",
+                "id": "f8a581e48e5887c8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "b3_sar/week_7/day2.md",
+                    "file": "E5_mena/week_9/day1.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "day1"
+                }
+              },
+              {
+                "id": "82c5ba782ef6c634",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "b3_sar/week_9/day2.md",
                     "mode": "source",
                     "source": false
                   },
@@ -212,32 +226,33 @@
                   "title": "day2"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 8,
+        "x": 544,
         "y": 47,
-        "width": 278,
+        "width": 532,
         "height": 845,
         "maximize": false,
         "zoom": -1
       },
       {
-        "id": "82d1376c2225859b",
+        "id": "a315f2ac95313b4c",
         "type": "window",
         "children": [
           {
-            "id": "e5e103bc0da8848b",
+            "id": "61bf0464b378d316",
             "type": "tabs",
             "children": [
               {
-                "id": "b1deace024e75878",
+                "id": "548a3b824c6b7173",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "b3_sar/week_8/day1.md",
+                    "file": "b3_sar/week_9/day1.md",
                     "mode": "source",
                     "source": false
                   },
@@ -249,18 +264,40 @@
           }
         ],
         "direction": "vertical",
-        "x": 294,
-        "y": 313,
-        "width": 1027,
-        "height": 579,
+        "x": 8,
+        "y": 47,
+        "width": 528,
+        "height": 845,
         "maximize": false,
-        "zoom": 0.5
+        "zoom": -1
       }
     ]
   },
-  "active": "b1deace024e75878",
+  "active": "82c5ba782ef6c634",
   "lastOpenFiles": [
+    "b3_sar/week_9/day1.md",
+    "b3_sar/week_9/day2.md",
+    "E5_mena/week_9/day1.md",
     "Home.md",
+    "m5_shrmi/week_6/CSCU9M5 Assignment 2024_od.pdf",
+    "E5_mena/week_7/Use_case_restaurant_model.svg",
+    "E5_mena/week_9/GroupProject-specification-2024.pdf",
+    "E5_mena/week_9",
+    "b3_sar/week_8/day2.md",
+    "b3_sar/week_8/day2.sync-conflict-20241030-133316-LNZJYDH.md",
+    "b3_sar/week_8/day2.sync-conflict-20241030-132551-LNZJYDH.md",
+    "m5_shrmi/week_8/Pasted image 20241030132530.png",
+    "m5_shrmi/week_8/screenshot-20241030-130710 1.png",
+    "b3_sar/week_8/day2.sync-conflict-20241030-132431-LNZJYDH.md",
+    "IMG_20241027_124015.jpg",
+    "m5_shrmi/week_8/screenshot-20241030-130710.png",
+    "b3_sar/week_8/Practical 3 -b-loaddatadate (1).csv",
+    "b3_sar/week_8/Practical 3 -a-normdata.csv",
+    "b3_sar/week_8/Practical 3 -b-loaddatadate.csv",
+    "m5_shrmi/week_8/Pasted image 20241030124743.png",
+    "ux_smi/week_7/day2.md",
+    "ux_smi/week_7/Practical 3 -a-normdata.csv",
+    "ux_smi/week_7/Practical 3 -b-loaddatadate.csv",
     "b3_sar/week_8/day1.md",
     "b3_sar/week_7/day2.md",
     "Untitled.canvas",
@@ -269,42 +306,21 @@
     "b3_sar/week_8",
     "E5_mena/week_8/day2.md",
     "m5_shrmi/week_8/day1.md",
-    "IMG_20241027_124015.jpg",
     "m5_shrmi/week_8/aircraft.csv",
-    "m5_shrmi/week_8/CRISP-recap-orange.ows",
     "E5_mena/week_8/day1.md",
-    "E5_mena/week_8",
-    "m5_shrmi/week_8",
     "m5_shrmi/week_7/day2.md",
     "m5_shrmi/week_7/screenshot-20241022-114114.png",
-    "m5_shrmi/week_7/pract4_iris",
-    "m5_shrmi/week_7/pract4_iris.ows",
-    "m5_shrmi/week_7/Practical4_MotorClaims.csv",
-    "m5_shrmi/week_7/CSCU9M5 Practical 4 Neural Networks.pdf",
     "m5_shrmi/week_7/day1.md",
     "b3_sar/week_7/day1.md",
     "b3_sar/week_7/dpic1s/Pasted image 20241021134616.png",
     "b3_sar/Week_4/day1.md",
     "b3_sar/week_7/dpic1s/Pasted image 20241021134408.png",
     "b3_sar/week_7/dpic1s/IMG_20241021_134333.jpg",
-    "b3_sar/week_7/dpic1s/Pasted image 20241021130804.png",
-    "b3_sar/week_7/dpic1s/Pasted image 20241021130442.png",
-    "b3_sar/week_7/dpic1s",
-    "b3_sar/week_7/dpic1s/IMG_20241021_124509.jpg",
     "b3_sar/week_5/day2.md",
     "b3_sar/week_1/day1.md",
     "b3_sar/week_3/day1.md",
     "b3_sar/week_6/day1.md",
     "b3_sar/week_5/day2.sync-conflict-20241009-133436-LNZJYDH.md",
-    "b3_sar/Week_4/Screenshot_20240930_125836.png",
-    "b3_sar/Week_4/day2.md",
-    "ux_smi/week_7/day1.md",
-    "m5_shrmi/week_6/day1.md",
-    "E5_mena/week_7/day1.md",
-    "E5_mena/week_7/Use_case_restaurant_model.svg",
-    "ux_smi/Week_4/day1.md",
-    "m5_shrmi/week_6/day2.md",
-    "ux_smi/week_6/day1.md",
-    "E5_mena/week_6/day2.md"
+    "b3_sar/Week_4/day2.md"
   ]
 }

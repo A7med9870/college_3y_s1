@@ -54,5 +54,15 @@
       ],
       "key": "M"
     }
-  ]
+  ],
+  "workspace:open-in-new-window": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": []
 }
